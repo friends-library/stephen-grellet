@@ -1,13 +1,20 @@
 == Chapter XIII.
 
-New York Yearly Meeting--Deputation to Visit Subordinate Meetings--Elias Hicks--Religious
-Visit to the Southern and Western States--Death of Thomas Paine
+[.chapter-synopsis]
+* New York Yearly Meeting
+* Deputation to Visit Subordinate Meetings
+* Elias Hicks
+* Religious Visit to the Southern and Western States
+* Death of Thomas Paine
 
 Peacefully returned, from an interesting visit to his Father-land,
 Stephen Grellet was soon called upon to mingle again in religious
 exercise with the assembled brethren of his own Church,
 and to unite with them in active exertions for the
 promotion of the Redeemer`'s cause within its borders.
+
+[.embedded-content-document]
+--
 
 "`At our Yearly Meeting in New York, in the Fifth month, 1808,`" he writes,
 "`an exercise feelingly came over Friends on account of our young people,
@@ -34,6 +41,8 @@ and to enforce as they should receive Divine help,
 the necessity of this pious and important concern.
 I was one of the Committee separated to that service.`"
 
+--
+
 Soon after the conclusion of the Yearly Meeting,
 the Committee thus appointed engaged in the work.
 They found it a deeply interesting but "`a laborious
@@ -46,6 +55,9 @@ could not fail to be keenly alive to everything
 that had the least tendency to lead away from him,
 or to lessen in the view of others the beauty and loveliness of his character,
 and the completeness of his Divine attributes.
+
+[.embedded-content-document]
+--
 
 "`I became introduced,`" he says, "`into very deep and painful trials; for Elias Hicks,
 one of our Committee, frequently advanced sentiments repugnant to the Christian faith,
@@ -69,6 +81,8 @@ after he had advanced some such sentiments, I felt it my place,
 we had uniformly received and maintained the fundamental Christian truths,
 in harmony with clear Scripture doctrine.`"
 
+--
+
 Though, at that time, comparatively a young man,
 associated in religious service with men of much longer standing,
 it is interesting to see in these simple records
@@ -90,6 +104,9 @@ It hud, however, been "`given him in the behalf of Christ nut only to believe on
 but also to suffer for his sake,`" and his time and
 talents were still devoted to his cause.
 
+[.embedded-content-document]
+--
+
 "`During the winter,`" he remarks,
 "`I endeavoured to engage in some little temporal business;
 but I was not permitted to pursue it many months.
@@ -105,12 +122,17 @@ which place we reached in time to attend their meeting, on the 23rd. I sat it in
 but in this silence my mind has often been refreshed,
 and encouraged faithfully to follow the Lord in all his requirings.`"
 
+--
+
 Thus cheered by the good presence of the Lord,
 and having left his beloved wife under the care and protection of her earthly parent,
 he committed himself and his all into the hands of his Heavenly Father,
 and proceeded on his mission, in obedience to His will.
 Of this engagement, which was an extensive one,
 the following particulars are extracted from his memoranda.
+
+[.embedded-content-document]
+--
 
 Philadelphia, First-day, 26th. I have been in the morning at the North Meeting,
 to which I belonged while my residence was in this city,
@@ -229,7 +251,7 @@ we may be renewed again through Him, both obtain remission of sin,
 and witness a newness of life,
 and finally an entrance into his glorious kingdom of everlasting blessedness,
 where Satan, the grand deceiver, the old adversary, has no more place,
-and the purified spirits can never fill.
+and the purified spirits can never fall.
 I have found tender minds seeking after Truth, at several places,
 and had a word of encouragement to give to them.
 We had meetings also among the slaves, their masters appearing to encourage them to come;
@@ -382,6 +404,8 @@ We went afterwards through all the meetings composing
 the Quarterly Meetings of New Garden and Deep River,
 having meetings also in the Courthouses in some of the towns.
 
+--
+
 Having completed his religious engagements in North Carolina,
 Stephen Grellet passed over the Blue Ridge mountains and entered Tennessee.
 The number of Friends in that State was not large, and their meetings were few.
@@ -394,6 +418,9 @@ and the stream of the Gospel has frequently flowed towards them.
 O that they may settle upon Christ Jesus,
 the only sure foundation of our hope of salvation!`"
 From Tennessee he went into Kentucky, and thus continues his memoranda:
+
+[.embedded-content-document]
+--
 
 Stanford, 22nd of Seventh month.
 My mind being strongly attracted, in Gospel love, towards the inhabitants of this State,
@@ -457,11 +484,16 @@ O that the seed of God I have visited in this State,
 and been made an instrument to water, may spring forth to the praise of the Lord!
 From place to place, I have found it a time of renewed visitation to the people.
 
+--
+
 Leaving Kentucky he crossed the Ohio, and once more set his foot on Free-soil.
 The State of Ohio, though of comparatively recent origin, already began to exhibit,
 in its rapidly increasing population and general prosperity,
 the blessing of exemption from the blight of slavery.
 His journal proceeds:
+
+[.embedded-content-document]
+--
 
 Cincinnati, 4th of Eighth month.
 This forenoon I have had a meeting in their largest meetinghouse.
@@ -558,10 +590,15 @@ Many were contrited under the feeling of the renewed visitation of God to them:
 I hope some of the young people will, in days to come, recollect this day as one,
 when stones of memorial were given them to rear up as an Ebenezer.
 
+--
+
 After this meeting Stephen Grellet proceeded to Fairfield.
 Here he was obliged to yield to the pressure of disease, and, for several weeks,
 his religious engagements had to be suspended.
 On Ids recovery he thus resumes his memoranda:
+
+[.embedded-content-document]
+--
 
 Fairfield, 4th of Ninth month, 1809.
 My travelling in my Gospel embassy has been interrupted through a heavy illness.
@@ -748,6 +785,8 @@ the excellency of the Lord`'s power and mercy,
 who has preserved us both on a bed of sickness,
 and supported us under our several probations.
 
+--
+
 After spending a few days at Burlington, Stephen Grellet, accompanied by his wife,
 proceeded to Philadelphia, and from there to the meetings composing Concord,
 and parts of the Western Quarterly Meetings,
@@ -779,6 +818,9 @@ At the same place lived the notorious Thomas Paine.
 An authentic account of the last days of such a man
 may have some historical value and interest,
 and Stephen Grellet thus notices his decease:
+
+[.embedded-content-document]
+--
 
 I may not omit recording here the death of Thomas Paine.
 A few days previous to my leaving home on my last religious visit,
@@ -822,3 +864,5 @@ If his companions in infidelity had found anything to support the
 idea that he continued on his deathbed to espouse their cause,
 would they not have eagerly published it?
 But not a word is said; there is a total secrecy as to what has become of these writings.
+
+--

@@ -1,7 +1,10 @@
 == Chapter V.
 
-Philadelphia Yearly Meeting--His Parents--First Journey in the
-Service of the Gospel--Acknowledgment as a Minister of Christ
+[.chapter-synopsis]
+* Philadelphia Yearly Meeting
+* His Parents
+* First Journey in the Service of the Gospel
+* Acknowledgment as a Minister of Christ
 
 Stephen Grellet had now become a member of the religious Society of Friends.
 In the maturity of early manhood, he had taken a deliberate but a decided step.
@@ -58,6 +61,9 @@ and truly adorned the Doctrine of God our Saviour by the meekness and gentleness
 as well as the devotedness of their lives.
 Stephen Grellet remarks:--
 
+[.embedded-content-document]
+--
+
 I received much instruction at that Yearly Meeting.
 The weightiness of the spirits of many Friends, I thought, was very conspicuous.
 Business of peculiar importance, and which claimed much interest, was transacted.
@@ -84,11 +90,16 @@ who has made all the nations of the earth of one blood,
 and that Jesus Christ has died for all, and is the Saviour of all who believe in Him,
 of whatever nation or colour they may be.
 
+--
+
 The horrors of the French Revolution continued,
 and while humbly endeavouring to pursue the path of Christian duty,
 as it had been opened to him in the new sphere in which he moved,
 Stephen Grellet`'s tender and susceptible heart was frequently
 brought into much conflict on behalf of his beloved parents.
+
+[.embedded-content-document]
+--
 
 "`The accounts which I received, in those days,`" he remarks,
 "`of the distracted state of my native country, much afflicted me.
@@ -113,9 +124,14 @@ my lips,--not to talk of what was passing in France;
 and over my heart,--not to entertain any thoughts
 but such as flowed from the Divine spirit of love.`"
 
+--
+
 After remarking upon the comfort and efficacy of prayer under the
 trying circumstances in which his beloved parents were placed,
 he continues:
+
+[.embedded-content-document]
+--
 
 "`And here it may be proper also to state,
 that they were preserved from an untimely death,
@@ -220,6 +236,8 @@ This took place at the house of my dear friends John and Esther Griffin, at Purc
 while travelling on a religious visit in company with my beloved friend John Hall.
 A holy solemnity came upon us all.`"
 
+--
+
 The summer of 1797 was rendered interesting in the life of Stephen Grellet,
 by his first entrance upon some of those services, in the Gospel of Christ,
 for the good of his fellow men at a distance from his own home, which, in after days,
@@ -235,6 +253,9 @@ before engaging in a work which he felt to be very important.`"
 His friend, Enoch Evans, a valuable Elder from Cropwell meeting,
 united with him in the service.
 
+[.embedded-content-document]
+--
+
 "`I proceeded in it,`" he says, "`in much lowness of spirit,
 keeping close to my heavenly guide.
 He so condescended to me, that on coming into a family,
@@ -244,9 +265,14 @@ Many of those opportunities were favoured seasons,
 and proved visitations of love and mercy to the people.
 Most of them received us, and our books, with tears of gratitude.`"
 
+--
+
 On his return from this visit,
 he found that some cases of the Yellow Fever had made their appearance in the city,
 and many of the inhabitants had retired into the country to escape the infection.
+
+[.embedded-content-document]
+--
 
 "`I visited some of the sick,`" he writes, "`and felt much for the people.
 The Lord was pleased to prevent the spreading of the contagion.
@@ -268,6 +294,8 @@ the concern of my having to proclaim the same through the streets, was removed f
 for which I felt humble gratitude.
 Yet my secret exercise for the inhabitants continued.`"
 
+--
+
 Thus, "`walking humbly with his God,`" was the mind of Stephen Grellet,
 prayerfully observant of the "`signs of the times,`" and prepared to recognise the hand
 of the Lord in those public calamities which are permitted to visit cities and nations,
@@ -285,6 +313,9 @@ he was duly recorded as a Minister of Christ,
 by the Monthly Meeting for the Northern District, in Philadelphia,
 of which he was a member.
 Such an event could not fail to be deeply interesting to him.
+
+[.embedded-content-document]
+--
 
 "`It brought my mind,`" he says,
 "`under renewed concern that I might be so preserved in watchfulness,
@@ -309,6 +340,8 @@ It was my soul`'s chief concern to draw the attention of
 the people to this saving work and experimental faith,
 and I felt that the best testimony I could bear to the efficacy of the Redeemer`'s love,
 was to evince, by my life, what he had actually done for me.`"
+
+--
 
 It was the practice, at that time,
 for the Ministers and Elders of the city of Philadelphia to assemble together,

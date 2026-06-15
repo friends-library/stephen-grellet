@@ -1,13 +1,21 @@
 == Chapter XVII.
 
+[.chapter-subtitle--blurb]
 Second Visit to Europe
 
-Lancashire--Yorkshire--Midland Counties--Essex
+[.chapter-synopsis]
+* Lancashire
+* Yorkshire
+* Midland Counties
+* Essex
 
 From Bradford Stephen Grellet passed on to Liverpool,
 where he arrived on the 5th of Tenth month.
 "`Again much refreshed every way, at the hospitable house of his dear and kind friends,
 Isaac and Susannah Hadwen,`" he proceeds with his journal:
+
+[.embedded-content-document]
+--
 
 I continued a few days there and in the neighbourhood, having various services,
 and attending their Monthly and Quarterly Meetings.
@@ -77,6 +85,8 @@ and now to do it at a time when they are, for a while at least,
 out of the hurry and excitement of warlike movements,
 and when suffering and reflection have tended to soften many of their minds.
 
+--
+
 Though he had been several times at Birmingham,
 and had had considerable service among Friends and others,
 Stephen Grellet now felt himself again strongly attracted to that place,
@@ -84,6 +94,9 @@ so that "`his peace appeared to consist in returning to it,
 subject to the Lord`'s direction,
 whatever might be the nature of the service required at his hands.`"
 Arriving there the 15th of Eleventh month, he remarks:
+
+[.embedded-content-document]
+--
 
 On my way through a small town, I thought I was required to try to have a meeting there.
 A place was accordingly prepared, and public notice given through the town,
@@ -171,9 +184,14 @@ of sinners who repent and come to him in faith.
 She is a sister of the late Brissot de Warville, who, like many others,
 lost his life during the French Revolution.
 
+--
+
 From Dudley, Stephen Grellet`'s steps were directed towards a part of Wales,
 which he had not visited before.
 After this little digression, he remarks:
+
+[.embedded-content-document]
+--
 
 I returned by Worcestershire, Northampton, Huntingdon,
 and others of the Midland counties, having many meetings with Friends and others,
@@ -288,6 +306,8 @@ diligently to wait on the teachings of the Spirit of Christ, and to take no step
 but such as Christ himself leads his faithful followers into, according to his word,
 "`My sheep hear my voice, and they follow me, etc., etc.`"
 They left us in a very tender frame of mind.
+
+--
 
 Stephen Grellet now proceeded to visit the meetings of Friends in Essex and Hertfordshire,
 till on the 25th of Twelfth month, he "`once more came to Higham Lodge,

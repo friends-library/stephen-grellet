@@ -1,8 +1,16 @@
 == Chapter XXXII.
 
+[.chapter-subtitle--blurb]
 Third Visit to Europe
 
-Russia--Ekaterinoslav--Mennonites--Malakans--Duhobortzi--Perekop--Simferopol
+[.chapter-synopsis]
+* Russia
+* Ekaterinoslav
+* Mennonites
+* Malakans
+* Duhobortzi
+* Perekop
+* Simferopol
 
 A long and arduous journey southward now lay before them.
 Arrested at different intervals in some of the towns on their route,
@@ -18,7 +26,11 @@ opened the way for them wherever they came,
 and "`both in the palace and the prison`" the Lord
 continued to prosper their labour of love.
 
+[.offset]
 On the 1st of Fifth month, 1819, Stephen Grellet continues his memoranda:
+
+[.embedded-content-document]
+--
 
 We left Moscow yesterday, and did not arrive at Serpoukhov till two this morning.
 We were several times in danger in crossing the waters
@@ -671,6 +683,8 @@ and they are so bold that they sometimes attack travellers.
 We passed by a large one lying on the ground with an eagle,
 which had probably attacked him, by his side, its talons were nearly buried in his back;
 in the struggle both had died.
+
+--
 
 After a tedious journey over "`the great steppe,`"
 they reached Perekop on the second of Sixth month,

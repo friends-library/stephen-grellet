@@ -1,8 +1,12 @@
 == Chapter XIV.
 
+[.chapter-subtitle--blurb]
 Second Visit to Europe
 
-Voyage--Arrival at Liverpool--Religious Visit to Scotland
+[.chapter-synopsis]
+* Voyage
+* Arrival at Liverpool
+* Religious Visit to Scotland
 
 Again fixing his abode at New York, Stephen Grellet was permitted, for about two years,
 to remain very much at home.
@@ -23,6 +27,9 @@ Hitherto he had been enabled, even in this respect,
 to "`minister to his necessities`" from his own resources,
 and he felt it to be a privilege both to spend and to be spent in the work of his Lord.
 
+[.embedded-content-document]
+--
+
 "`He has so blessed me,`" was the grateful record of this devoted servant,
 "`that to His praise be it acknowledged,
 I have gone on my own charges throughout all the extensive
@@ -33,6 +40,8 @@ But I have only thus returned to my blessed Master, in his service,
 what he has bountifully bestowed upon me.
 My friends in New York would have paid my passage across the sea,
 but I could not be free to consent to it.`"
+
+--
 
 In connection with these remarks,
 it will be recollected that the religious Society of Friends have long borne
@@ -99,6 +108,9 @@ he was not unmindful of the special requirements of his Christian calling;
 and under the expansive influence of Gospel love, a religious concern,
 relating to distant fields of labour, was often a subject of serious thoughtfulness.
 
+[.embedded-content-document]
+--
+
 "`Kept, through Divine aid, from the spirit of the world,`" he writes,
 in reference to this period of his life,
 "`I have had the prospect of a great work steadily before me, and,
@@ -120,6 +132,8 @@ in our respective stations, we may avert the impending calamity,
 which at seasons appears to me to be coming, like an overflowing scourge,
 over our Society.`"
 
+--
+
 The sorrowful events of succeeding years, which are now matter of well-known history,
 have sufficiently justified these serious apprehensions,
 and painfully illustrate the deplorable consequences of a departure from the
@@ -135,6 +149,9 @@ he had again to leave all for the Gospel`'s sake.
 
 In the early summer of 1811, he entered upon a second visit to Europe,
 and thus adverts to it in his Autobiography:
+
+[.embedded-content-document]
+--
 
 Since my return from my religious visit to France,
 I have been under almost continual pressure of mental exercise
@@ -162,12 +179,17 @@ into which you hast called him, so that,
 by keeping an eye single to your holy directions, he may faithfully follow you,
 and do the work you hast assigned him.
 
+--
+
 The voyage was a favourable one.
 Many passengers were on board,
 some of whom were "`light and noisy,`" but Stephen Grellet
 had "`the comfort of the company of John Burlingham,
 a valuable Friend from Worcester, England.`"
 He remarks:
+
+[.embedded-content-document]
+--
 
 The 5th of Sixth month.
 I was taken down with sea sickness soon after coming on board.
@@ -192,8 +214,13 @@ With grateful acknowledgments I praise him; for I have not '`waited on him in va
 He has been near me day by day, especially during my silent,
 secret prostrations of soul before him; he has frequently contrited my heart.
 
+--
+
 Stephen Grellet arrived at Liverpool the day after the preceding entry in his journal,
 the 22nd of the Sixth month, 1811, and he thus continues:
+
+[.embedded-content-document]
+--
 
 I remained in Liverpool till the 3rd of Eighth month,
 having sundry meetings with Friends in that large commercial place,
@@ -219,6 +246,8 @@ It has, I believe,
 opened the minds of many in tender feelings towards the poor suffering Africans, who,
 they see, are men like themselves, capable of becoming, like Paul Cuffee,
 valuable and useful members both of civil and religious Society.
+
+--
 
 The Slave Trade had indeed, at this time, been for some years abolished,
 both by England and the United States; but it was still carried on,
@@ -253,6 +282,9 @@ and we are still "`guilty concerning our brother.`"
 
 Leaving Liverpool on the 3rd of Eighth month, Stephen Grellet proceeded northward,
 and thus continues his record:
+
+[.embedded-content-document]
+--
 
 My mind has been under great concern that I might have a clear sense of the right way
 in which I am now to proceed on this important embassy of my great Lord and Master;
@@ -545,3 +577,5 @@ and to seek to have fulfilled in them the very precious Scripture promises,
 By so doing they would understandingly read the Scriptures,
 and escape being of the number of those, who search the Scriptures,
 which testify of Christ, but will not come to him, that they might have life.
+
+--

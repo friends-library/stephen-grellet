@@ -1,8 +1,11 @@
 == Chapter XXX.
 
+[.chapter-subtitle--blurb]
 Third Visit to Europe
 
-Russia--Petersburg, continued
+[.chapter-synopsis]
+* Russia
+* Petersburg, continued
 
 Though the Emperor had returned to the capital, they had not yet seen him.
 But they had subsequently two interviews with him,
@@ -10,6 +13,9 @@ and also spent some time with the Empress and the Empress Dowager.
 As the time of their departure drew near,
 they were indefatigable in the earnest pursuit of the object of their Gospel mission.
 Stephen Grellet goes on to say:--
+
+[.embedded-content-document]
+--
 
 10th of Second month, 1819.
 We have been several times with Count Miloradovitch,
@@ -525,6 +531,8 @@ for the important work in which we have been engaged in this city; humbly prayin
 that He would be pleased to bless the work to his own glory, be with us who go,
 and be with him also, now going to be left behind,
 separated from his beloved brethren in person, but not in spirit.
+
+--
 
 At half-past six p.m. they got into a cabitzsky, a kind of large covered sleigh,
 which they had purchased for the occasion, and,

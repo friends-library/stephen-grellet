@@ -1,10 +1,19 @@
 == Chapter XXIII.
 
+[.chapter-subtitle--blurb]
 Second Visit to Europe
 
-The Kingdom of
-Wirtemberg--Frankfort--Neuwied--Cologne--Elberfeld--Barmen--Pyrmont--Minden--Bremen--Return
-to England
+[.chapter-synopsis]
+* The Kingdom of Wirtemberg
+* Frankfort
+* Neuwied
+* Cologne
+* Elberfeld
+* Barmen
+* Pyrmont
+* Minden
+* Bremen
+* Return to England
 
 In Bavaria, Stephen Grellet had met with much that interested him,
 and called forth his sympathy and solicitude.
@@ -14,6 +23,9 @@ but the time had come to enter upon new fields of labour.
 The prospect of attending the ensuing Yearly Meeting in Ireland had opened before him,
 and he had yet much to accomplish in Germany.
 Diligently pursuing his labours, he writes:
+
+[.embedded-content-document]
+--
 
 I arrived at Stuttgard on the 28th of First month, 1814,
 where I met with several persons prepared, by letters from their friends of Geneva,
@@ -509,6 +521,8 @@ both rich and poor.
 Bless the Lord, therefore, O my soul, and forget not all his benefits!
 O Lord! bless also those pious ones whom you hast enabled me to visit!
 O, bless the work of your hands everywhere!
+
+--
 
 Thus he concludes the account of his second visit to the continent of Europe.
 Numerous letters followed him from Gessner, Vernet, Gautier, etc., of Geneva;
