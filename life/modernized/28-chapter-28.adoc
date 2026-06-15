@@ -1,13 +1,18 @@
 == Chapter XXVIII.
 
+[.chapter-subtitle--blurb]
 Third Visit to Europe
 
-Finland
+[.chapter-synopsis]
+* Finland
 
 A fine passage of forty hours across the Gulf of Bothnia brought them to Abo.
 Their religious engagements in Finland and the journey
 to Petersburg occupied little more than a fortnight.
 Stephen Grellet thus proceeds with his memoranda:
+
+[.embedded-content-document]
+--
 
 Abo, 29th of Tenth month.
 We arrived here early this morning.
@@ -193,9 +198,14 @@ with his family and a few others.
 His wife is a pious woman.
 We left them in great brokenness of spirit.
 
+--
+
 They now took their departure from Abo, accompanied by their hired attendant,
 the value of whose services, in facilitating their progress, soon became fully apparent.
 Stephen Grellet continues:--
+
+[.embedded-content-document]
+--
 
 Helsingfors, 4th of Eleventh month.
 We have passed the two last nights at very poor houses,
@@ -246,9 +256,14 @@ We are much pained, since coming to Finland,
 to find that so many women are in these prisons for the crime of infanticide.
 It appears to exist to a very deplorable extent.
 
+--
+
 From Helsingfors, they had a quick journey to Frederickshamm; the roads being good,
 they travelled one hundred and fourteen versts, about eighty-four English miles,
 in nine hours.
+
+[.embedded-content-document]
+--
 
 Frederickshamm, 7th. This place is in Russia, and is a fortified town.
 We left the old Swedish frontiers at Lovissa, through which we passed without stopping.
@@ -285,8 +300,13 @@ They were serious, and some of them tender.
 In the evening several came to our inn,
 and made further inquiries into our Christian principles.
 
+--
+
 Pursuing their journey they came to Viborg,
 their last halting place before entering into winter quarters in the capital of Russia.
+
+[.embedded-content-document]
+--
 
 Viborg, 9th of Eleventh month.
 We arrived here early this evening.
@@ -305,3 +325,5 @@ accompanied us to the prison in the castle,--a miserable dirty place,
 dark and damp,--men and women and their young children all crowded together.
 We were greatly affected in being with them.
 O, that the Lord may open a way whereby relief may be extended to so many sufferers!
+
+--

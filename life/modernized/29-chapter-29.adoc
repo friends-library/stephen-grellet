@@ -1,8 +1,11 @@
 == Chapter XXIX.
 
+[.chapter-subtitle--blurb]
 Third Visit to Europe
 
-Russia--Petersburg
+[.chapter-synopsis]
+* Russia
+* Petersburg
 
 Stephen Grellet and his companion arrived at Petersburg just at the setting in of winter.
 They remained there four months.
@@ -15,6 +18,9 @@ both among the rich and the poor,--the prisoner and the outcast.
 Their services were of a peculiar kind; but it was evident that the Lord was with them,
 and "`preserved them whithersoever they went.`"
 Stephen Grellet makes the following memoranda:
+
+[.embedded-content-document]
+--
 
 Petersburg, 12th of Eleventh month, 1818.
 On our arrival this afternoon, by the side of the Neva, opposite to Petersburg,
@@ -189,8 +195,13 @@ His words are few; his spirit appears to be clothed with meekness and humility,
 and to be sincere in the pursuit after vital religion,
 and the saving knowledge of the Lord Jesus Christ.
 
+--
+
 After several days of laborious service in the prosecution of their religious engagements,
 Stephen Grellet proceeds with his memoranda:--
+
+[.embedded-content-document]
+--
 
 28th. I continue under deep mental conflicts.
 My exercise for the people among whom we are is deep.
@@ -461,10 +472,18 @@ and he wished to hear our observations on our visits to those places.
 We hope he may be of service towards the removal of some of the
 great miseries that we have beheld in many of these places.
 
+--
+
+[.offset]
 At this time, Stephen Grellet writes:
 
-TO WILLIAM DILLWIN.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+To William Dillwin
+
+[.signed-section-context-open]
 Petersburg, 23rd of Twelfth month, 1818.
 
 This is a great place, the capital of a great Empire;
@@ -495,7 +514,13 @@ They have been marvellously displayed on our behalf,
 poor solitary pair as we often feel to be, when going from city to city,
 and from nation to nation.
 
+--
+
+[.offset]
 The journal proceeds:
+
+[.embedded-content-document]
+--
 
 24th. My beloved friend William Allen being unwell, I went alone to Ochta,
 to attend the meeting there.
@@ -606,6 +631,8 @@ It is therefore intended that the simple language
 of Scripture only shall be brought forward,
 and having so far prepared our plan, we expect diligently to prosecute the work.
 
+--
+
 In carrying out this important concern,
 in which they were heartily joined by Dr. Paterson and his wife, and both the Vennings,
 these devoted servants "`while closely engaged during the day,`" in their Gospel labours,
@@ -656,6 +683,9 @@ for the use of schools in Russia, but translated afterwards into many languages,
 and extensively used in different countries,
 leading the young to an acquaintance with the Holy Scriptures,
 which they could not easily have gained otherwise.
+
+[.embedded-content-document]
+--
 
 1st of Second month.
 Besides the meetings for Divine worship that we frequently have,
@@ -725,9 +755,14 @@ they felt it their filial duty so tenderly to plead with them,
 on account of their drunkenness, swearing, and other vicious habits,
 as to prevail upon them to forsake their evil ways.
 
+--
+
 About this time,
 Stephen Grellet was "`brought into great heaviness,`" under the apprehension
 that it was not improbable that his companion would soon have to leave him.
+
+[.embedded-content-document]
+--
 
 "`My beloved William Allen,`" he writes, "`when he left England,
 did not see his way with clearness to accompany me further than this place,
@@ -749,6 +784,8 @@ to see what the Lord will do.
 As he put it into dear Allen`'s heart to come thus far with me,
 he can also give him a commission to accompany me further.
 To live by faith--how precious!`"
+
+--
 
 He was not long left in doubt.
 This trial was soon cleared away.

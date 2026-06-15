@@ -1,6 +1,9 @@
 == Chapter II.
 
-French Revolution--Removal to Demerara--Arrival at New York
+[.chapter-synopsis]
+* French Revolution
+* Removal to Demerara
+* Arrival at New York
 
 Before Etienne had completed his sixteenth year,
 the political horizon of his country was changed, and with it the horizon of his hopes.
@@ -25,6 +28,9 @@ recognizes as a "`Divine interposition,`" which preserved him.
 For, at that time, in the summer of 1791, he was violently seized with the small-pox.
 During this illness he was brought very low.
 
+[.embedded-content-document]
+--
+
 "`The Lord,`" he writes, "`was pleased afresh to visit my benighted soul.
 The state from which I had departed was clearly set before me,
 and the misery into which I must be plunged,
@@ -37,6 +43,8 @@ and relieved me from the apprehension of being totally blind,
 the disorder being much in the eyes.
 But, alas! alas! soon I forgot his works, turned his mercy into wantonness,
 and became more and more estranged from him.`"
+
+--
 
 Many and rapid were now the events which succeeded each other.
 Soon after his recovery the nobility in general were retiring from France into Germany,
@@ -60,6 +68,9 @@ After stopping a few days at Paris, they passed on towards Germany, through Mont
 Many were the dangers to which Etienne was exposed.
 In recurring to these, and the narrow escapes he had, he remarks:--
 
+[.embedded-content-document]
+--
+
 "`I shudder when I remember the state of insensibility I was in.
 I was not the least moved when surrounded by people and soldiers,
 who lavished their abuses upon us, and threatened to hang me to the lamp-post.
@@ -69,12 +80,17 @@ I concluded to wait to see what they would do, and resolved,
 after destroying as many of them as I could, to take my own life with the last.
 No thought of Eternity was then before me--no sense or remembrance that there is a God!`"
 
+--
+
 He was, however, mercifully preserved, and no violent hands were laid upon him.
 After a short detention, he and his brothers pursued their way to Coblentz,
 then the rendezvous of the nobility, the French Princes being there.
 The winter and spring were spent in military preparations
 for the approaching campaign in France.
 Both morally and physically it was a time of much exposure to Etienne.
+
+[.embedded-content-document]
+--
 
 "`Everything about me,`" he says, "`and the very nature of the work I was engaged in,
 was highly calculated to destroy every fiber remaining
@@ -107,6 +123,8 @@ But that word honour so inflamed us, that I marvel how contentedly we bore our p
 And what was it all for?
 To contend for an earthly crown!
 To satisfy our vain and proud minds!`"
+
+--
 
 Towards the approach of winter, owing to various political changes,
 the Princes`' army was obliged to retire from France, and, soon after, was disbanded.
@@ -169,6 +187,9 @@ and he "`felt convinced that there was no excess
 of wickedness and malice which a slave holder,
 or driver, might not be guilty of.`"
 The state of society in Demerara was deplorable.
+
+[.embedded-content-document]
+--
 
 "`It was a place of much dissipation,`" he remarks.
 "`I do not recollect, during the whole time I was there, that I saw anything,
@@ -246,3 +267,5 @@ A few minutes more, and we must have perished.
 and prevent my sinking into everlasting misery.
 But such was the obduracy of my heart, all that time,
 that I do not recollect to have felt any emotion of gratitude.`"
+
+--

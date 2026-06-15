@@ -1,9 +1,12 @@
 == Chapter XXVI.
 
+[.chapter-subtitle--blurb]
 Third Visit to Europe
 
-Voyage to England--Companions Provided for Continental
-Service--Preparations to Embark for Norway
+[.chapter-synopsis]
+* Voyage to England
+* Companions Provided for Continental Service
+* Preparations to Embark for Norway
 
 It was some months after his return from Hayti before Stephen
 Grellet fully recovered from the effects of his severe illness;
@@ -29,6 +32,9 @@ they had a number of meetings within its compass.
 After his return from New England the prospect of another religious visit to Europe,
 alluded to in the last chapter, was brought before him with deepening interest,
 and under date of the 26th of Eleventh month, he makes the following memorandum:
+
+[.embedded-content-document]
+--
 
 The weight of the service which the Lord calls for from me in Europe,
 becomes heavier and heavier; my whole mind is at seasons absorbed by it.
@@ -60,6 +66,8 @@ she very sweetly encourages me,
 believing as she does that our happiness in time and our hope of blessedness in eternity,
 depend on our following the Lord in the paths of obedience in all faithfulness.
 
+--
+
 In due time he spread his concern before the Friends of his Monthly, Quarterly,
 and Yearly Meetings.
 They respectively entered "`into much feeling with him,
@@ -69,6 +77,9 @@ notice and kindness of those among whom he might come,
 in the course of his service in the Gospel of our Lord and Saviour Jesus Christ.`"
 Soon after this, he embarked on his third visit to Europe.
 The following particulars are taken from his journal:
+
+[.embedded-content-document]
+--
 
 17th of Sixth month, 1818.
 Having settled all my affairs and taken a very solemn
@@ -146,9 +157,14 @@ Besides having meetings with the sailors and steerage passengers,
 I have felt it my place several times to read to them portions
 of the Scriptures and suitable religious tracts.
 
+--
+
 It was not quite four years since Stephen Grellet left Liverpool,
 after his former visit in Europe.
 On again reaching the shores of England, he says:--
+
+[.embedded-content-document]
+--
 
 Liverpool, 14th of Seventh month.
 Through the Lord`'s favour we have landed here safely this morning.
@@ -181,8 +197,13 @@ according to your word,--in which you hast given me to hope,--to
 prepare a companion for me after my own heart,
 to go with me in the great work whereto you do send me.
 
+--
+
 On his arrival in London he took up his quarters at William Allen`'s,
 who then resided in Plough Court, Lombard Street.
+
+[.embedded-content-document]
+--
 
 London, 21st. I arrived here this evening,
 and have not delayed telling my dear friend William Allen,
@@ -225,10 +246,15 @@ towards whom my mind had been inclined for a length of time,
 though none knew it except my beloved wife.
 Bless the Lord, O my soul, and all that is within me, bless his holy name!
 
+--
+
 In looking at the prosecution of his religious labours,
 Stephen Grellet`'s attention had been much turned
 towards the northern parts of the Continent,
 and in allusion to it, he remarks:
+
+[.embedded-content-document]
+--
 
 Dear Allen having now concluded to go with me, at least as far as Petersburg,
 and there to wait to know what the Lord may further require of him,
@@ -266,8 +292,13 @@ My friends here unite with me in the acknowledgment of it.
 Blessed forever be his holy Name, who is glorious in holiness, fearful in praises,
 doing wonders.
 
+--
+
 Thus provided both with a companion and an interpreter,
 Stephen Grellet left London for Ipswich and Harwich, to embark for Norway.
+
+[.embedded-content-document]
+--
 
 Eighth month, 8th. This morning several friends met us at dear William Allen`'s;
 we had a solemn religious season before the Lord, when,
@@ -288,3 +319,5 @@ The vessel in which we took our passage in London, is waiting here.
 She is one of those smacks that go to Norway for fish, principally for lobsters.
 Her name is Freeling, Captain Heart.
 She has been chartered to take us to Stavanger and Christiania, for seventy guineas.
+
+--

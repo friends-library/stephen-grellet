@@ -1,6 +1,7 @@
 == Chapter I.
 
-Childhood and College Life
+[.chapter-synopsis]
+* Childhood and College Life
 
 Etienne De Grellet Du Mabillier^
 footnote:[This was the proper name of Stephen Grellet, in his own country,
@@ -179,6 +180,9 @@ commemorating the Divine goodness, he exclaims,
 "`O the heart-meltings I have witnessed,--fervent were some of the prayers I then put up,
 when on my knees, my cheeks bedewed with tears.`"
 
+[.embedded-content-document]
+--
+
 "`As we were educated,`" he continues, "`by Roman Catholics, and in their principles,
 we were required to confess once every month.
 I had chosen for my confessor one whom I thought to be a pious and conscientious man;
@@ -200,10 +204,15 @@ Though I was told that they were mysteries which I was not to seek to see into,
 yet my reasoning faculties brought me to the root of the matter--from created objects,
 to the Creator--from time to eternity.`"
 
+--
+
 Among some of the "`__religious openings__`" he had at Lyons,
 one left a very deep impression;
 and the remembrance of it helped to sustain his spirit
 under many subsequent exercises and trials.
+
+[.embedded-content-document]
+--
 
 "`I thought I saw,`" he says, "`a large company of persons, or rather purified spirits,
 on one of those floating vessels which they have at Lyons, on the Rhone,
@@ -220,6 +229,8 @@ having been baptised with water,
 and having also received what they call the sacrament of confirmation,
 I should have to pass through such a purification; for I had never read,
 or heard anything speak of such a baptism.`"
+
+--
 
 When, some years before, he had, along with some of his companions,
 received confirmation, according to the rites of the Romish Church,

@@ -1,7 +1,11 @@
 == Chapter X.
 
-Religious Visit to Friends and Others in Pennsylvania--Appearance of the Yellow Fever
-in New York--Return Home--Decease of His Mother-in-law--Illness of his Wife
+[.chapter-synopsis]
+* Religious Visit to Friends and Others in Pennsylvania
+* Appearance of the Yellow Fever in New York
+* Return Home
+* Decease of His Mother-in-law
+* Illness of his Wife
 
 An interval of six months had scarcely elapsed,
 after his last return from the field of Christian labour,
@@ -38,6 +42,9 @@ certificates of unity from his Monthly and Quarterly Meetings,
 "`arranged his temporal concerns so as to leave nothing behind that would prevent
 his thoughts being wholly directed to the work his blessed Master sent him to
 do,`" and proceeded on the visit described in the following memoranda.
+
+[.embedded-content-document]
+--
 
 I left home the 17th of Sixth month, 1805.
 My beloved wife and her father went with me for a few days.
@@ -357,6 +364,8 @@ Being a full believer in the Lord Jesus Christ,
 she was remarkable for the meekness and gentleness of her temper, and the quiet,
 cheerful resignation she manifested under the various
 trying occurrences which attended her.
+
+--
 
 It is scarcely possible to read this simple record of facts,
 without noticing the beautiful coincidence between the dispensations
