@@ -1,5 +1,6 @@
 == Chapter IX.
 
+[.chapter-synopsis]
 * His Marriage
 * Death of His Father
 * Religious Visit to the States of New York and Vermont, and Parts of Canada

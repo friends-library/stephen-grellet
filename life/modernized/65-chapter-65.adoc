@@ -198,7 +198,7 @@ Your very nearly attached friend,
 Stephen Grellet
 
 [.letter-heading]
-To William Allen.
+To William Allen
 
 [.signed-section-context-open]
 Burlington, 7th mo., 22nd, 1843.

@@ -431,7 +431,7 @@ Grellet.`"]
 --
 
 [.letter-heading]
-To William Allen.
+To William Allen
 
 [.signed-section-context-open]
 Burlington, 8th mo., 11th, 1837.
