@@ -1,7 +1,9 @@
 == Chapter VIII.
 
-Religious Visit to the Eastern and Northern States,
-in Company with John Hall--His Brother Joseph`'s Return to France--Visit to Jersey
+[.chapter-synopsis]
+* Religious Visit to the Eastern and Northern States, in Company with John Hall
+* His Brother Joseph`'s Return to France
+* Visit to Jersey
 
 Whilst "`fervent in spirit,
 serving the Lord,`" Stephen Grellet was "`not slothful in business;`" but,
@@ -15,6 +17,9 @@ that "`if he sought first the kingdom of God and His righteousness,
 all things needful should be added,`" was often a comfort and encouragement to him,
 in his efforts to provide things honest in the sight of all men.
 
+[.embedded-content-document]
+--
+
 "`I was not permitted, however,`" he writes, "`to remain long thus engaged;
 for the love of the Gospel strongly drew me towards the Eastern,
 and parts of the Northern States.
@@ -23,9 +28,14 @@ to whom I had made the offering of myself and my all, required of me,
 I spread the concern before my friends at their Monthly and Quarterly Meetings,
 and obtained their respective certificates of unity.`"
 
+--
+
 His beloved friend and former companion, John Hall, being led in the same direction,
 they again united as fellow-labourers, and, leaving New York together,
 in the Fifth month, 1801, proceeded to Long Island.
+
+[.embedded-content-document]
+--
 
 "`We visited,`" Stephen Grellet continues, "`all the meetings of Friends,
 and had several also among the inhabitants.
@@ -35,8 +45,13 @@ and, in this, to obtain a considerable degree of relief, under our various exerc
 Notwithstanding the high profession made by many under our name, a spirit of degeneracy,
 and even of infidelity, had crept in among some of them.`"
 
+--
+
 From Long Island they returned to New York, to attend the Yearly Meeting in that city,
 after which they proceeded to New England Yearly Meeting at Newport.
+
+[.embedded-content-document]
+--
 
 "`It was held,`" Stephen Grellet remarks, "`under much solemnity,
 throughout its various sittings,
@@ -173,6 +188,8 @@ of that pure, living stream which flows from his Divine presence;
 therefore return unto thy rest, for the Lord hath dealt bountifully with thee.
 I travelled in that journey about four thousand miles.`"
 
+--
+
 On his return to his own habitation in the city of New York,
 Stephen Grellet applied himself, with his accustomed diligence, to his outward concerns.
 During his absence these had very much devolved upon his brother Joseph.
@@ -199,6 +216,9 @@ Only a few months after his brother had left him,
 Stephen Grellet was again called from home, in the service of his Lord,
 "`his mind being drawn forth in the love of the Gospel to visit the meetings of Friends,
 and the people of other religious denominations in Jersey.`"
+
+[.embedded-content-document]
+--
 
 "`I made such arrangements,`" he remarks, "`as to leave my affairs with satisfaction;
 and, having the approbation of my Monthly Meeting,
@@ -242,6 +262,8 @@ and also cared for my small temporal concerns,
 so that they had been as prosperous as if I had stayed at home.
 Thus it is good for us to commit our all to Him whose power is over all,
 and from whom every blessing flows.`"
+
+--
 
 Stephen Grellet was now permitted to remain at home for more than a year.
 He nevertheless visited some meetings in the neighbouring Quarterly Meetings;

@@ -1,14 +1,19 @@
 == Chapter XV.
 
+[.chapter-subtitle--blurb]
 Second Visit to Europe
 
-Religious Visit to Ireland
+[.chapter-synopsis]
+* Religious Visit to Ireland
 
 On the termination of his religious services in Scotland,
 Stephen Grellet felt "`drawn in much Christian love
 and interest`" towards Friends and others in Ireland,
 and at once entered upon a general visit to that island.
 The following particulars of his Gospel labours in the different provinces are preserved:
+
+[.embedded-content-document]
+--
 
 The 17th of Eleventh month, 1811.
 Accompanied by my valued friend, John Robinson of Glasgow, and William Hall,
@@ -131,6 +136,8 @@ O how great are the Lord`'s goodness and tender mercies!
 I came to Cork on the 15th, under great weight on my spirit,
 being sensible that bonds and afflictions awaited me in that city.
 
+--
+
 Under the pressure of much religious exercise,
 it was "`a great comfort to Stephen Grellet here again to meet with his dear friend,
 Ann Burgess (afterwards Jones), to whom he felt nearly united in Gospel fellowship.`"
@@ -145,6 +152,9 @@ them`" to visit the Friends of the city of Cork,
 in their families,
 "`in submission to the Lord`'s requirings,`" they united in this engagement.
 Stephen Grellet remarks respecting it:
+
+[.embedded-content-document]
+--
 
 We diligently pursued that service, during the whole of the following week,
 except attending meetings in course.
@@ -298,3 +308,5 @@ delivered me from mischief intended by evil-designing men,
 and although kept very poor from day to day,
 he has clothed his servant with ability to perform the daily work assigned.
 "`Bless the Lord, O my soul, and all that is within me bless his holy name!`"
+
+--

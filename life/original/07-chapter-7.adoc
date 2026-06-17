@@ -1,7 +1,8 @@
 == Chapter VII.
 
-Removal to New York--Religious Visit, in Company with John Hall, to Baltimore, Virginia,
-North Carolina, and Parts of Pennsylvania
+[.chapter-synopsis]
+* Removal to New York
+* Religious Visit, in Company with John Hall, to Baltimore, Virginia, North Carolina, and Parts of Pennsylvania
 
 On leaving Philadelphia, Stephen Grellet did not at once settle down at New York; but,
 his beloved friend Jarvis Johnson, from Ireland,
@@ -15,6 +16,9 @@ It was scarcely a month since he had taken leave of his friends of Philadelphia,
 and on being now introduced to the members of another Yearly Meeting,
 amongst whom he was about to fix his abode, he remarks in his journal:
 
+[.embedded-content-document]
+--
+
 My being at the Yearly Meeting, on my first coming to this place,
 has given me an opportunity of becoming acquainted with many valuable Friends.
 The generality of the sittings were solemn seasons, especially the conclusion,
@@ -25,11 +29,16 @@ with my dear Saviour, his beloved Son,
 through whom alone I have attained peace and assurance,
 and through whom my sins have been blotted out--my Lord and my God!
 
+--
+
 After having taken up his residence at New York, he was engaged, with his brother Joseph,
 in mercantile concerns in that city.
 But he had been "`bought with a price,`" and he deeply felt that he was "`not his own.`"
 The "`love of Christ constraining him,`" he could not "`live unto himself,
 but unto Him who died for us, and rose again.`"
+
+[.embedded-content-document]
+--
 
 "`I was not long able,`" he writes in his Autobiography,
 "`to devote much attention to business.
@@ -494,10 +503,15 @@ Many in Ireland, captivated by the subtle workings of this dark, deceitful spiri
 were following her pernicious ways,
 by reason of whom the way of Truth was evil spoken of.`"
 
+--
+
 From Chichester they proceeded with the work before them and were
 diligently engaged in visiting many meetings in those parts,
 till the time of holding Baltimore Yearly Meeting drew them to that city.
 Here Stephen Grellet remarks:
+
+[.embedded-content-document]
+--
 
 On the 11th of Eleventh month began the Yearly Meeting of Baltimore,
 to which we went in lowness of mind,
@@ -530,6 +544,8 @@ during this week, they have only been from five to six,
 and today there is only one death.
 "`Bless the Lord, O my soul, and all that is within me, bless his holy name.`"
 
+--
+
 Under this "`grateful sense of the Lord`'s goodness,`" they left Baltimore,
 and had many meetings on their way to Philadelphia.
 
@@ -544,6 +560,9 @@ bearing precious seed,`" now greeted him as a brother beloved in the Lord,
 coming back to the city of his former residence, "`bringing his sheaves with him.`"
 It was here that he first joined his beloved companion in the work before them, and:
 
+[.embedded-content-document]
+--
+
 "`Here,`" he remarks, "`feeling my mind, for the present,
 released from further religious service,
 I took an affectionate leave of my dear friend John Hall, and returned to New York,
@@ -556,3 +575,5 @@ to see the Englishman and the Frenchman united in promoting
 the cause of righteousness and truth on the earth,
 whilst their respective nations were waging such destructive wars against each other.
 We heard some of them feelingly comment on the peaceable spirit of the Gospel.`"
+
+--

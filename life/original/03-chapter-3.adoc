@@ -1,6 +1,8 @@
 == Chapter III.
 
-Retirement to Long Island--His Conversion
+[.chapter-synopsis]
+* Retirement to Long Island
+* His Conversion
 
 Safely arrived, after all their perils, in the United States of America,
 the two brothers made a short stay in the city of New York.
@@ -46,6 +48,9 @@ the faith and hope of the Gospel dawned on the soul,
 and the objects and pursuits of life were completely and permanently changed.
 His own words will best describe the simple facts connected
 with the great turning-point of his life--his conversion:--
+
+[.embedded-content-document]
+--
 
 "`Through adorable mercy, the visitation of the Lord was now again extended towards me,
 by the immediate openings of the Divine light on my soul.
@@ -133,6 +138,8 @@ I have been as one plucked from the burning--rescued from the brink of a horribl
 O how can the extent of the Lord`'s love, mercy, pity,
 and tender compassion be fathomed!`"
 
+--
+
 Religious convictions had now taken deep hold of his mind,
 and he carefully sought to cherish them.
 An anxious enquirer after "`the right way of the Lord,`" he became still further confirmed,
@@ -173,6 +180,9 @@ but it proved the means of confirming him in a more
 unwavering and decided course of action,
 afterwards.
 From this time he went straight onwards.
+
+[.embedded-content-document]
+--
 
 "`I was brought,`" he says, "`to resignation to endure the world`'s reproaches,
 or any thing it might be suffered to inflict,
@@ -265,3 +275,5 @@ when I found that my brother had partaken of the heavenly visitation.
 From that time he attended meetings diligently, and was a great comfort to me.
 But, during all that period,
 we had no conversation with any of the members of the religious Society of Friends.`"
+
+--

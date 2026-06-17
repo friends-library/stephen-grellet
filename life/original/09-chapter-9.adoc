@@ -1,7 +1,9 @@
 == Chapter IX.
 
-His Marriage--Death of His Father--Religious Visit to the States of New York and Vermont,
-and Parts of Canada
+[.chapter-synopsis]
+* His Marriage
+* Death of His Father
+* Religious Visit to the States of New York and Vermont, and Parts of Canada
 
 The commencement of the year 1804 was marked by the interesting
 event of Stephen Grellet`'s marriage to Rebecca Collins,
@@ -41,6 +43,9 @@ with his devotedness to the service of his God and Saviour,
 and in the Seventh month of the same year,
 he entered upon an extensive religious engagement,
 of which the following account is preserved.
+
+[.embedded-content-document]
+--
 
 Having for a considerable time past felt drawings of Gospel
 love towards the meetings in New York and Vermont States,
@@ -414,3 +419,5 @@ and sustaining mercies, vouchsafed during that journey.
 He had often made a way for me to get forwards,
 when there appeared to be none,--blessed be his name, and magnified be his power,
 forever!
+
+--
