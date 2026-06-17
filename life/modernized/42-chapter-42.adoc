@@ -1,14 +1,20 @@
 == Chapter XLII.
 
+[.chapter-subtitle--blurb]
 Third Visit to Europe
 
-South of France--Return to England
+[.chapter-synopsis]
+* South of France
+* Return to England
 
 Having completed his religious engagements in Switzerland,
 Stephen Grellet felt once more drawn towards the little
 company who profess with Friends in the South of France.
 He left Geneva early in the morning of the eleventh of Second month, 1820,
 and on the fourteenth he writes at Nismes:--
+
+[.embedded-content-document]
+--
 
 I travelled to this place night and day, without stopping much on the road,
 except a short time at Chambery and Grenoble.
@@ -104,7 +110,13 @@ to frustrate my having a meeting,
 by substituting for it a disputation on some of their favourite tenets;
 but the Lord has defeated their purpose; safe it is to follow his Divine guidance.
 
+--
+
+[.offset]
 Stephen Grellet now took leave of his friends in Languedoc, and passed on to Montpellier.
+
+[.embedded-content-document]
+--
 
 24th. This morning early, accompanied still by Louis Majolier, I came to Lunel, where,
 after tarrying a short time, we separated in brotherly and Christian love,
@@ -315,3 +327,5 @@ Though it was late, and I felt the effects of the sea-sickness,
 yet my soul was so bowed before the Lord, who has, in such a gracious manner,
 led me about, and instructed and preserved me, that I was constrained, on bended knees,
 to offer up to Him the tribute of thanksgiving and praise.
+
+--

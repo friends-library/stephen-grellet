@@ -1,8 +1,11 @@
 == Chapter LVI.
 
+[.chapter-subtitle--blurb]
 Fourth Visit to Europe
 
-Bavaria--Wirtemberg
+[.chapter-synopsis]
+* Bavaria
+* Wirtemberg
 
 Though favoured to obtain a peaceful release from the Austrian capital, the darkness,
 superstition and bigotry which so much prevailed left a sorrowful
@@ -13,6 +16,9 @@ of the Gospel of "`His glory`" was so much obscured by unbelief or misbelief,
 and the spirit of the world.
 They set off for Bavaria on the 26th of Ninth month, and travelling night and day,
 arrived at Munich on the 29th. Stephen Grellet writes:
+
+[.embedded-content-document]
+--
 
 Munich, 29th. Our way was for some distance up the Danube, over a very fertile country.
 We had the Austrian Alps on our left, covered with perpetual snow;
@@ -320,8 +326,13 @@ We were sorry that we had not a single one left to give to these dear people,
 but we promised to send them some from Stutgard,
 where we expect to meet with a fresh supply.
 
+--
+
 Their interesting labours in Bavaria being now nearly concluded,
 they proceeded to the capital of the neighbouring kingdom of Wirtemberg.
+
+[.embedded-content-document]
+--
 
 On our way to Stutgard, we stopped at Augsburg,
 to see some of the pious people I had been acquainted
@@ -589,3 +600,5 @@ resign ourselves and one another to the Lord`'s disposal and almighty keeping.
 Dear Allen was to set off for Frankfort a few hours after my departure, on his way home.
 I travelled on my way very solitary; but the Lord was with me;
 without him I lack everything; in him are all my fresh springs!
+
+--

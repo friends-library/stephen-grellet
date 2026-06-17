@@ -1,8 +1,12 @@
 == Chapter XL.
 
+[.chapter-subtitle--blurb]
 Third Visit to Europe
 
-Munich--Augsburg--Stutgard
+[.chapter-synopsis]
+* Munich
+* Augsburg
+* Stutgard
 
 Stephen Grellet was again in Bavaria;
 but many changes had taken place since his last visit.
@@ -16,6 +20,9 @@ and earnestly as his heart yearned towards the humble
 followers of the Lamb under every name,
 his Christian sympathy and concern could not fail to be rekindled.
 On his arrival at Munich, on the morning of the 7th of First month, 1820, he writes:--
+
+[.embedded-content-document]
+--
 
 It is six years since I was at this place before,
 and I find that I must stand resigned to resume the heavy bonds that I had then upon me.
@@ -347,7 +354,13 @@ instead of making it into porridge.
 The Postmaster from Schaffhausen parted from me in great tenderness;
 the Lord Jesus is precious to him.
 
+--
+
+[.offset]
 From Bavaria he passed over into the dominions of the King of Wirtemberg.
+
+[.embedded-content-document]
+--
 
 Stutgard, 18th. I left Augsburg at six last evening, and travelling all night,
 came here in twenty-four hours.
@@ -556,3 +569,5 @@ to walk in the way of his counsel, and to worship him in spirit and in truth.
 Our parting from one another was under much solemnity and Christian affection.
 They are among those whom I can recognize as a portion of that flock of the Lord
 Jesus who know his voice;--may they also follow him wherever he leads.
+
+--

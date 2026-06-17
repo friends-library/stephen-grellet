@@ -1,8 +1,10 @@
 == Chapter LVIII.
 
+[.chapter-subtitle--blurb]
 Fourth Visit to Europe
 
-The Waldenses
+[.chapter-synopsis]
+* The Waldenses
 
 Stephen Grellet had now taken his final leave of Switzerland.
 His heart had often turned with much Christian love towards
@@ -30,6 +32,9 @@ Stephen Grellet visited their isolated communities.
 
 On leaving Geneva, he took the direct course to Turin,
 and having reached Chambery he writes:
+
+[.embedded-content-document]
+--
 
 Eleventh month, 13th, 1832.
 I have found as yet no door open for religious service in this place,
@@ -259,3 +264,5 @@ Catholics that I was with on my former visit here;
 but I do not find that they have made much advance in vital religion;
 the way to the kingdom is too narrow for them.
 The few Protestants here are descendants of the Waldenses; some of them love the Truth.
+
+--

@@ -1,9 +1,13 @@
 == Chapter L.
 
+[.chapter-subtitle--blurb]
 Fourth Visit to Europe
 
-Voyage to Liverpool--Various Religious Engagements in England--The
-Yearly Meeting in London--Preparations for the Continent
+[.chapter-synopsis]
+* Voyage to Liverpool
+* Various Religious Engagements in England
+* The Yearly Meeting in London
+* Preparations for the Continent
 
 It was now nearly eleven years since Stephen Grellet`'s
 return from his third visit to Europe.
@@ -27,6 +31,9 @@ His mind had for some time been gradually preparing
 for a "`fourth missionary journey`" in Europe,
 and in reference to this he writes:
 
+[.embedded-content-document]
+--
+
 Twelfth month, 1830.
 Amidst my concern and soul`'s travail for my beloved friends in this land,
 I have very deeply felt for some of the European nations,
@@ -49,9 +56,14 @@ surely this must be the prayer of faith in the Lord Jesus,
 the Saviour and deliverer from all the works and devices of the devil,
 and of our own evil hearts also.
 
+--
+
 A few months later active steps were taken to prepare for
 carrying out what he believed to be his religious duty,
 and he remarks:
+
+[.embedded-content-document]
+--
 
 Third month, 1831.
 My religious concern to cross once more the seas and to visit Friends in England,
@@ -86,10 +98,15 @@ and gave me their certificate of unity,
 recommending me to the Christian notice of all those
 among whom the Lord may be pleased to direct my steps.
 
+--
+
 After the Yearly Meeting, Stephen Grellet returned home for a short time;
 but the hour of parting soon arrived.
 On the 2nd of Sixth month, 1831,
 he embarked at Philadelphia in the packet ship Algonquin, Captain West, for Liverpool.
+
+[.embedded-content-document]
+--
 
 My beloved wife and daughter accompanied me to Philadelphia.
 My dear child deeply felt the approaching hour of separation;
@@ -121,7 +138,13 @@ The steerage passengers and the seamen appear also to be grateful
 for the repeated opportunities I have taken of reading the Bible,
 or some useful and interesting religious tracts to them.
 
+--
+
+[.offset]
 On his arrival at Liverpool, after a passage of twenty-eight days, he writes:
+
+[.embedded-content-document]
+--
 
 Liverpool, Sixth month, 30th, 1831.
 We landed here this morning.
@@ -145,7 +168,13 @@ and at seasons, to rejoice together in the Lord.
 I also had meetings with the inhabitants, and others with Friends, to satisfaction;
 but I had close labour in some of them.
 
+--
+
+[.offset]
 From Liverpool he proceeded to the South, and was engaged in various religious services.
+
+[.embedded-content-document]
+--
 
 Accompanied by Thomas Thompson, I left Liverpool for London the 7th inst.,
 and was at Birmingham and Coventry meetings on the way.
@@ -233,8 +262,13 @@ Dear Allen had very good service.
 We had mostly two meetings a day.
 Those in the evenings were generally of a public character.
 
+--
+
 After attending the Quarterly Meeting in London,
 he went into some of the Eastern Counties, accompanied by George Stacey.
+
+[.embedded-content-document]
+--
 
 We went through the counties of Essex, Suffolk and Norfolk,
 and visited all the meetings of Friends.
@@ -288,7 +322,13 @@ Jane C. Gurney`'s. I feel much for her in her widowed state; her bereavement,
 by the decease of her valuable husband, is great; but her loss is, I believe,
 his eternal gain.
 
+--
+
+[.offset]
 Proceeding on his journey, he continues:
+
+[.embedded-content-document]
+--
 
 My dear friend, Thomas Maw, being now with me, I visited the counties of Cambridge,
 Lincoln, etc.
@@ -308,8 +348,13 @@ Thus the Lord has been pleased to cut short the work in righteousness:
 while we were on ship-board together he repeatedly said that the
 chief service to which he thought he was called was in Ireland.
 
+--
+
 At Wisbeach, Stephen Grellet was joined by John Holmes, a Friend of that Meeting,
 and proceeded from there to visit several of the Midland and Northern Counties.
+
+[.embedded-content-document]
+--
 
 I had many meetings in the dales of those counties, and among the colliers and miners.
 I feel deeply for that class of men; many are their privations and sufferings,
@@ -346,11 +391,21 @@ and soon after taken to Sheffield to my dear and valued friend, William llargrea
 where medical aid was immediately obtained, and every kind attention bestowed.
 My beloved friends, Lydia Hargreaves and her brother, nursed me in the most tender manner.
 
+--
+
+[.offset]
 The day after the accident, he wrote:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To John and Mary Hustler.
 
+[.signed-section-context-open]
 Sheffield, 17th of 1st mo., 1832.
+
+[.salutation]
 My beloved Friends,
 
 I write to save you the feelings of solicitude that might be excited in your very tender,
@@ -377,8 +432,15 @@ In this dispensation I do feel nothing but gratitude, and a renewal of faith in 
 My love to the dear friends of your family, especially to dear Mildred.
 Farewell in near affection.
 
+--
+
+[.offset]
 On the 25th, Lydia Hargreaves writes:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Mary Hustler.
 
 How delightful to be able to tell you of the improvement in our beloved
@@ -397,7 +459,13 @@ is continually mingled;
 and fervent is the heartfelt desire that profit and
 instruction may be individually and lastingly known.
 
+--
+
+[.offset]
 The journal continues:
+
+[.embedded-content-document]
+--
 
 My detention, though attended with much bodily suffering,
 was nevertheless a season of spiritual consolation and enjoyment.
@@ -503,9 +571,14 @@ May the Lord bless his work among that people and everywhere.
 The dear Redeemer says, "`My Father works hitherto,
 and I work,`" and it is a marvellous work.
 
+--
+
 The desire of his heart respecting a companion on
 the Continent appeared likely to be granted;
 and a little later he writes:
+
+[.embedded-content-document]
+--
 
 My beloved friend, William Allen, left me at Falmouth, the 2nd of Third month,
 to return to London,
@@ -595,8 +668,13 @@ the testimony to the Truth given me to bear among them.
 O! that the people would learn righteousness under these visitations of affliction!
 The mortality in Paris is great.
 
+--
+
 Stephen Grellet now attended the Yearly Meeting in London:
 in reference to which he remarks:--
+
+[.embedded-content-document]
+--
 
 Sixth month, 2nd. The Yearly Meeting concluded this day.
 There was a living travail of spirit prevalent.
@@ -620,12 +698,20 @@ I returned to London in time to attend their Quarterly Meeting,
 which was a solemn one,--as was the parting, for a season only, perhaps,
 from friends tenderly beloved in the Truth.
 
+--
+
+[.offset]
 A few days before his departure for Holland, he writes:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Lydia Hargreaves.
 
-Stoke Newington, 6th me.
-30th, 1832.
+[.signed-section-context-open]
+Stoke Newington, 6th mo. 30th, 1832.
+
 At Norwich I had the pleasure of seeing Jonathan Backhouse.
 Four weeks before, he and his wife had been at Burlington, with my dear wife and daughter.
 Thus, besides letters, I had tidings from an eye witness.
@@ -640,3 +726,5 @@ impel us much faster towards the destined haven, than mere sunshine and calm wou
 When under heavy pressure, discouragement may often prevail,
 but in drawing near to our Holy Redeemer, these very trials become sanctified to us.
 They have been so many a time.
+
+--

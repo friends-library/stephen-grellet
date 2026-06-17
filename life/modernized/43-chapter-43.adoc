@@ -1,12 +1,17 @@
 == Chapter XLIII.
 
+[.chapter-subtitle--blurb]
 Third Visit to Europe
 
-Concluding Services in England and Ireland
+[.chapter-synopsis]
+* Concluding Services in England and Ireland
 
 After an absence of a little more than a year and a half,
 Stephen Grellet found himself once more among his English Friends.
 Before leaving the place of his landing on British ground, he continues his memoranda.--
+
+[.embedded-content-document]
+--
 
 Dover, 23rd. This day I have been refreshed in my spirit,
 by mingling with several dear friends, and in visiting a school for poor children.
@@ -175,8 +180,13 @@ but now and then my blessed Master leads me in ways of pleasantness,
 where all his paths are peace.
 Blessed and adored be his name!
 
+--
+
 On a review of this visit, and the attendance of the Yearly meeting in Dublin,
 he makes the following remarks.--
+
+[.embedded-content-document]
+--
 
 In the space of six years great changes have taken place among Friends here.
 This life is indeed very chequered, and full of vicissitude.
@@ -214,10 +224,15 @@ Many of the Roman Catholics came to one of these.
 Our services were very harmonious, being together of one mind, of one accord,
 baptized by the one Spirit, for the one work of the dear Master.
 
+--
+
 Returning to England, he attended the Yearly Meeting in London.
 On the eve of retiring from the field of his European labours,
 it was a time of peculiar interest, both to himself and his friends,
 and in reference to it, he makes the following record.--
+
+[.embedded-content-document]
+--
 
 We left Ireland in much peace; had at Worcester a solemn meeting with Friends,
 and another with the inhabitants.
@@ -244,8 +259,13 @@ and for the dear youth and precious lambs of His fold,
 I feel as if my very life was bound up in theirs.
 With dear Allen, the separation has been in the fulness of the love of the Gospel.
 
+--
+
 He now went down, on a farewell visit to his friends in the North of England,
 on his way to Liverpool, to embark for America.
+
+[.embedded-content-document]
+--
 
 Accompanied by George Stacey, junior, I left London for Leeds the 9th of Sixth month.
 After having a meeting there, we came on to Undercliffe,
@@ -390,6 +410,8 @@ But our blessed Lord condescended also to show me, that in his time,
 by the brightness of his arising, he would destroy that spirit;
 but many may first be destroyed by it,
 and houses great and fair be left without inhabitant.
+
+--
 
 Thus closed his third embassy to Europe--his second visit to Great Britain and Ireland.
 Though the "`shadow of coming events,`" brought a cloud over his prospects of the future,

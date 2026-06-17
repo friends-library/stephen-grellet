@@ -1,6 +1,7 @@
 == Chapter XLVIII.
 
-The Separation
+[.chapter-synopsis]
+* The Separation
 
 The autobiography of Stephen Grellet is now brought to a point at which
 it would be matter of joy to be able to pause,--to pass over in silence,
@@ -64,7 +65,7 @@ that purifies`" the penitent convert--looking in faith to Jesus,
 the Lamb of God that takes away the sins of the world,
 and freely forgiven in virtue of the one most satisfactory,
 propitiatory sacrifice,--and strengthens him to "`go on unto perfection.`"
-Thus, humbly trusting in Christ alone, as the Hock of his salvation,
+Thus, humbly trusting in Christ alone, as the Rock of his salvation,
 Stephen Grellet pressed towards the mark for the prize,
 studying to show himself approved unto God, a workman that needs not to be ashamed,
 rightly dividing the word of Truth.
@@ -289,7 +290,11 @@ his apostolic spirit was not robbed of the freshness of its bloom,
 nor of the sweetness of its fragrance; much beloved by those who knew him best,
 he was still the loving disciple of the Lord Jesus--the faithful minister of Christ.
 
+[.offset]
 In the Tenth month, 1826, he makes the following memorandum:--
+
+[.embedded-content-document]
+--
 
 I have been most of my time at home since last year,
 except attending some meetings not far distant.
@@ -300,6 +305,8 @@ At our last Yearly Meeting we had the very sorrowful
 evidence that there are very few sections,
 if any, in this Yearly Meeting,
 where the baneful influence is not felt to a lamentable extent.
+
+--
 
 The crisis was now at hand.
 The Society was on the eve of a separation.
@@ -314,6 +321,9 @@ At this juncture Stephen Grellet felt it to be required of him, in the love of C
 to pay a general visit to Friends in the compass of his own Yearly Meeting.
 On his return home from this engagement, which occupied about five months,
 he takes the following review of the service:--
+
+[.embedded-content-document]
+--
 
 Ninth month, 1827.
 I have just returned from a very trying engagement throughout this Yearly Meeting,
@@ -540,6 +550,8 @@ Ah! how awful is the language!
 My soul trembles with fearfulness,
 lest this be actually the state of many of these people.
 
+--
+
 Though his own particular meeting was, in great measure,
 preserved from the devastating influence of the prevailing evil,
 the poison had spread considerably in the surrounding district.
@@ -547,6 +559,9 @@ His Christian solicitude was kept painfully alive,
 and instead of resting from his labours,
 his active services were again called forth in the Redeemer`'s cause.
 On the 4th of Fifth month, 1828, he makes the following entry in his note book:
+
+[.embedded-content-document]
+--
 
 On my return home last fall, I found that the same spirit,
 under which I had suffered so deeply during my last journey,
@@ -582,3 +597,5 @@ No separation has taken place in our particular Meeting.
 May the badge of Christianity more and more prevail
 among us I If the love of Christ dwells in our hearts,
 then we shall love one another.
+
+--

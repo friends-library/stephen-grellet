@@ -1,13 +1,20 @@
 == Chapter XXXV.
 
+[.chapter-subtitle--blurb]
 Third Visit to Europe
 
-Scio--Islands of the Archipelago--Athens
+[.chapter-synopsis]
+* Scio
+* Islands of the Archipelago
+* Athens
 
 Nearly a month was now occupied by a visit to Scio and Athens,
 and some of the intermediate islands.
 Of this, and the perilous incidents connected with it,
 Stephen Grellet gives the following graphic details:
+
+[.embedded-content-document]
+--
 
 We left Smyrna on the 31st of the Seventh month.
 The boat on which we embarked is of the shape of a canoe, with two men to row it.
@@ -269,7 +276,13 @@ The cause of all this is thought to be the discovery of the bodies of six Turks,
 beheaded by the Turkish authorities,
 whom the people supposed to have been killed by some of the Christians.
 
+--
+
+[.offset]
 Having completed their services in Scio, they crossed the Archipelago to Athens.--
+
+[.embedded-content-document]
+--
 
 14th. As we were entering our boat this morning,
 we met with some Greeks lauding from Smyrna, who confirmed the above account.
@@ -531,6 +544,8 @@ They are not treated as on the American shores, when landing from slave-ships,
 or when marched from one state to another, chained together,
 or shut up in jails at night.
 
+--
+
 Before leaving Athens,
 Stephen Grellet was again brought into much thoughtfulness
 on account of the time drawing near,
@@ -538,6 +553,9 @@ when his dear friend William Allen anticipated he might
 be released from his present religious engagement,
 and feel at liberty to return home.
 He thus alludes to it in his last record at Athens:--
+
+[.embedded-content-document]
+--
 
 My beloved companion has it under his serious consideration to leave me,
 after we have visited some of the Ionian Isles, and to return to England.
@@ -555,3 +573,5 @@ and what proneness also there is in me to be of a doubtful spirit!
 It is now upon me by night and by day.
 The time appears to have nearly come for me to go there.
 Heavy are my gospel bonds.`"
+
+--

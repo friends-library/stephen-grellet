@@ -1,8 +1,11 @@
 == Chapter LV.
 
+[.chapter-subtitle--blurb]
 Fourth Visit to Europe
 
-Austria--Hungary
+[.chapter-synopsis]
+* Austria
+* Hungary
 
 The Austrian Empire did not appear to afford much scope for their Christian labours,
 and they proceeded at once from Prague to Vienna.
@@ -13,7 +16,11 @@ But, on returning to the Austrian capital,
 no opportunity for extensive usefulness seemed to open,
 and they soon felt themselves at liberty to leave the dominions of the Emperor.
 
+[.offset]
 Stephen Grellet gives the following account:
+
+[.embedded-content-document]
+--
 
 We left Prague at five o`'clock p.m., on the 17th of Ninth month.
 Thirty-seven hours of close travelling brought us to Vienna;
@@ -303,8 +310,14 @@ Very many in America and other lands, who enjoy this privilege,
 are not sensible of the value of it,
 nor of the sufferings that the lack of it subjects many tender-minded persons to.
 
+--
+
+[.offset]
 On the day before their departure from Vienna,
 Stephen Grellet writes to a friend in England.
+
+[.embedded-content-document]
+--
 
 Last night the prospect having unfolded that we may proceed towards Bavaria,
 after properly weighing it, we have attended to the needful preparation,
@@ -319,3 +332,5 @@ We are glad, however, to be able to get away from Vienna;
 the jealousy of Government and the whole of the police is such,
 that the way to visit their prisons is much shut up.
 The pious people among Protestants are under fear of speaking.
+
+--
