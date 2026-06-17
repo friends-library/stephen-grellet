@@ -1,10 +1,17 @@
 == Chapter XII.
 
+[.chapter-subtitle--blurb]
 First Visit to Europe
 
-The Scenes of His Youth--Interview with His
-Mother--His Relatives--Brives--Limoges--Bergerac--Bordeaux--Return
-to New York
+[.chapter-synopsis]
+* The Scenes of His Youth
+* Interview with His Mother
+* His Relatives
+* Brives
+* Limoges
+* Bergerac
+* Bordeaux
+* Return to New York
 
 From Montpellier Stephen Grellet passed over the Cevennes;
 "`travelling night and day about four hundred and fifty miles,`" he reached Brives,
@@ -101,7 +108,11 @@ it was not strange that peculiar exercises and conflicts should await him,
 on mingling with them in social and religious interactions,
 both in the intimacies of private life, and on more public occasions.
 
+[.offset]
 On entering the borders of his Father-land, he writes:--
+
+[.embedded-content-document]
+--
 
 My exercises in approaching Brives were great,
 and many of the conflicts I had in America, in anticipation of this solemn occasion,
@@ -349,6 +360,8 @@ she is even afraid they should know it.
 I had a sweet opportunity with her; the language of encouragement flowed towards her.
 I have also had several relieving meetings with small select companies.
 
+--
+
 Stephen Grellet`'s labours in his native land were
 brought to an earlier close than he had looked for.
 Under the restrictions of Napoleon`'s military despotism,
@@ -357,6 +370,9 @@ and no further service appearing to be required in other directions,
 he felt at liberty to leave France,
 and to take his passage in a vessel ready to sail from Bordeaux to America.
 He thus continues his journal:
+
+[.embedded-content-document]
+--
 
 14th of Second month, 1808.
 I have embarked this day on the ship _Eliza_, Captain Skiddy, to return to New York;
@@ -423,9 +439,14 @@ who has restored me to my dear wife and friends,
 and preserved me amidst so many baptisms.
 I found my beloved wife still feeble, but able to go with me to meeting.
 
+--
+
 Stephen Grellet had been absent more than nine months;
 a few weeks after his re-union with his family and friends,
 he adds the following memorandum.
+
+[.embedded-content-document]
+--
 
 19th of Fourth month.
 Since my return home I have frequently looked back on the
@@ -441,3 +462,5 @@ thee;--the Lord is thy strength and salvation,
 he has been thy shield, thy buckler, thy rock, and thy refuge.
 Enable me, O Lord, to the end of my days, to be thine,
 and to serve thee with my whole heart.
+
+--

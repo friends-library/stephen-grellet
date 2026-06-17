@@ -1,13 +1,23 @@
 == Chapter XVI.
 
+[.chapter-subtitle--blurb]
 Second Visit to Europe
 
-Wales--Bristol--Bath--London Yearly Meeting--Eastern Counties--North of England
+[.chapter-synopsis]
+* Wales
+* Bristol
+* Bath
+* London Yearly Meeting
+* Eastern Counties
+* North of England
 
 Rather more than five months had been spent in Ireland,
 and Stephen Grellet now crossed the Channel into Wales.
 The Half-year`'s Meeting for the Principality was about to be held at Brecon, and,
 having a few meetings by the way, he proceeded pretty directly to that place.
+
+[.embedded-content-document]
+--
 
 "`On the 5th of Fourth month, 1812,`" he writes, "`I landed at Holyhead,
 after a rough but short passage, during which I again suffered much from sea-sickness.
@@ -42,11 +52,16 @@ then there would be an end of wars and fightings.`'
 and even the children, shed tears;
 they were so affected under the solemnity of the testimony delivered among them.`"
 
+--
+
 From Llandilo he went to Haverford-West and Milford Haven.
 Thence, "`having one or two meetings every day,
 and very close exercises in some of them,`" he returned along the coast of South Wales,
 by way of Caermarthen, Swansea, Neath, Cardiff, and Newport,
 and crossed the Channel to Bristol.
+
+[.embedded-content-document]
+--
 
 30th of fourth month.
 I arrived at Bristol in time to attend the Week-day Meeting on Sixth-day.
@@ -86,10 +101,15 @@ and manifested great brokenness of heart.
 I was afterwards with her to much satisfaction,
 for she evinces that she is one of those children, who are taught of the Lord.
 
+--
+
 From this time Stephen Grellet was closely occupied
 in holding meetings on his way to London,
 to attend the Yearly Meeting.
 The following brief record only is left:
+
+[.embedded-content-document]
+--
 
 Fifth month, 15th. Having had one or more meetings daily, I have come to Walthamstow,
 near London, to my long valued, though hitherto personally unknown,
@@ -146,8 +166,13 @@ Sixth month, 6th. I continued in London to this day attending several meetings,
 some of which were held under great solemnity and
 a tendering prevalence of the power of Truth.
 
+--
+
 Leaving the metropolis, Stephen Grellet attended the Quarterly Meetings of Essex,
 Suffolk, Norfolk, and Norwich, and had many meetings in Lincolnshire.
+
+[.embedded-content-document]
+--
 
 "`Accompanied by my dear friend, George Stacey,`" he writes,
 "`we have come into the county of Essex,
@@ -201,9 +226,14 @@ It was a pleasant rest every way to me, to be at my beloved friend,
 Jonathan Hutchinson`'s. He is a man of a meek and quiet spirit,
 whose daily life and conversation adorn the Gospel of Christ.`"
 
+--
+
 Having completed his visit to the Eastern counties,
 Stephen Grellet passed over into Yorkshire,
 and pursued his religious labours through some of the northern parts cf the nation.
+
+[.embedded-content-document]
+--
 
 Seventh month, 17th. Came to Thorne, in Yorkshire,
 where the meeting was attended with solemnity and refreshing from the Lord`'s presence,
@@ -527,3 +557,5 @@ Near the conclusion of this part of his services he writes: "`I came to Undercli
 near Bradford, to my very valuable friend, Sarah Hustler,
 one of the Lord`'s anointed servants,
 to whom I am very closely united in the bonds of the Gospel.`"
+
+--

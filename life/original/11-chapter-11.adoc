@@ -1,8 +1,13 @@
 == Chapter XI.
 
+[.chapter-subtitle--blurb]
 First Visit to Europe
 
-Voyage--Arrival at Marseilles--Quarantine--Visit to Congenies, etc.
+[.chapter-synopsis]
+* Voyage
+* Arrival at Marseilles
+* Quarantine
+* Visit to Congenies, etc.
 
 Amidst a variety of minor religious services at and about home,
 and the needful attention to his domestic and social duties,
@@ -25,6 +30,9 @@ in encouraging me to devote my all to the service of the dear Redeemer.`"
 
 From the journal which he kept, during this religious engagement,
 the following extracts are taken:
+
+[.embedded-content-document]
+--
 
 First-day, 14th of Sixth month, 1807.
 At sea.
@@ -654,8 +662,10 @@ which he kindly accepted; and the next day, on my way to Quissac, another town,
 a messenger, sent by his wife, overtook me,
 requesting that if I could spare some more of our books for some of their friends,
 it would oblige her.
-Among the books I gave were Penn`'s [.book-title]#Rise and Progress of Friends#, his [.book-title]#Maxims#,
-[.book-title]#No Cross No Crown#, and some tracts I had printed at Nismes;
+Among the books I gave were
+Penn`'s [.book-title]#Rise and Progress of Friends#,
+his [.book-title]#Maxims#, [.book-title]#No Cross No Crown#,
+and some tracts I had printed at Nismes;
 among others the short account of our principles and Christian testimonies, etc.
 The name of the Mayor is Laperouse.
 
@@ -734,6 +744,8 @@ we were favoured to feel the extension of his love.
 This is a hard parting to many of us, to some of the dear young people especially,
 in whom I hope the seed of the kingdom of Christ has taken some root.
 May the Lord water it, and cause it to bring forth fruit to his own praise!
+
+--
 
 Stephen Grellet now felt at liberty to leave Languedoc,
 and early next morning proceeded on his way to Montpellier.

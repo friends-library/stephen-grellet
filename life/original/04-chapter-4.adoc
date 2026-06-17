@@ -1,6 +1,9 @@
 == Chapter IV.
 
-Removal to Philadelphia--First Exercise of the Ministry--Admission into Membership
+[.chapter-synopsis]
+* Removal to Philadelphia
+* First Exercise of the Ministry
+* Admission into Membership
 
 The "`disciple of Voltaire`" now stands before us as the
 practical Christian--the humble believer in Jesus,
@@ -64,6 +67,9 @@ and self-denial to bear upon his daily walk in life,
 especially in connection with the costliness of some of his own habits,
 and the privations endured by others.
 
+[.embedded-content-document]
+--
+
 "`It was a time of much scarcity of provisions in France;`" he remarks,
 "`great was the distress of the inhabitants.
 My dear mother wrote me,
@@ -78,9 +84,14 @@ that the consideration of the general scarcity prevailing in the country,
 led me to think how wrong it was for me to wear powder on my head,
 the ground of which I knew to be pride.`"
 
+--
+
 The expensive habit was, of course, relinquished;
 his Christian consistency was rendered more complete,
 and his money saved for better purposes.
+
+[.embedded-content-document]
+--
 
 "`Being convinced,`" he continues, "`of the propriety of the plain language,
 I took up my cross in that also, though it exposed me to much ridicule.
@@ -209,6 +220,8 @@ becoming a servant and disciple of Christ.
 Deep therefore were the baptisms necessary to bring me out of my fallen state,
 to that holy mountain where none hurt or destroy.`"
 
+--
+
 During the winter of that year Deborah Darby and Rebecca Young (afterwards Byrd),
 who had been the first instruments through whom "`the Gospel`'s
 refreshing streams had reached his heart,`" at Newtown,
@@ -225,6 +238,9 @@ And "`one of the exercises which now lay with much weight upon him,
 was the continued apprehension that it was required of him publicly
 to testify of the Lord`'s wondrous works and mercy towards him,
 in the assemblies of the people.`"
+
+[.embedded-content-document]
+--
 
 "`I saw,`" he tells us, "`my unworthiness to engage in such a solemn service,
 and felt myself to be altogether a child,
@@ -286,10 +302,15 @@ stood up after me,
 bearing testimony to the Lord`'s power and the sufficiency of his Divine Truth,
 as displayed on my behalf.`"
 
+--
+
 Stephen Grellet had not, at this time,
 made application for membership in the Society of Friends.
 Though his advancement in the school of Christ was unusually rapid,
 he was not precipitate in his movements--Christian prudence and caution marked his steps.
+
+[.embedded-content-document]
+--
 
 "`Friends,`" he says himself,
 "`saw the tender and exercised state of mind in which I was,
@@ -386,3 +407,5 @@ You all, who feel the bedewings of Divine love,
 walk under its influence:--live in the Truth, and the Truth will keep you,
 and do all things for you.
 Every terrestrial object shall pass away, but the Truth endureth forever!`"
+
+--
