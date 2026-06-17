@@ -1,8 +1,11 @@
 == Chapter XXXVII.
 
+[.chapter-subtitle--blurb]
 Third Visit to Europe
 
-Barletta--Naples
+[.chapter-synopsis]
+* Barletta
+* Naples
 
 Stephen Grellet had now arrived at a peculiarly interesting,
 if not a critical period of his mission.
@@ -32,7 +35,11 @@ as it is in Him.
 The sequel will show how he sustained the trial,
 and stood faithful to his God and Saviour.
 
+[.offset]
 On his lonely voyage he resumes his narrative:--
+
+[.embedded-content-document]
+--
 
 At sea, on the Adriatic.
 The men on our small vessel are all Italians, among whom I am an entire stranger;
@@ -74,8 +81,13 @@ I cannot obtain any information respecting the pious Bishop of Janina,
 who translated Barclay`'s Apology into Greek.
 It is much to be feared that he has lost his life with many others.
 
+--
+
 On his arrival at Barletta he had to perform quarantine,
 before he was allowed to go to an inn, and mingle with the inhabitants.
+
+[.embedded-content-document]
+--
 
 Barletta, 25th of Tenth month, 1819.
 The part of Italy that we have sailed by is beautiful, very fertile and populous.
@@ -511,7 +523,7 @@ for they have sometimes a little fire in the prison, which is very damp,
 and as there is no chimney, the walls that have not been swept for many years,
 have a dismal appearance.
 The water they drink is drawn from a well in the prison.
-What they spill of it, and the raiu that comes in through the iron gratings,
+What they spill of it, and the rain that comes in through the iron gratings,
 causes the mud to be shoe-deep.
 They are so crowded that when they lie down on the planes placed over their benches,
 they completely cover the whole surface; and all cannot be accommodated.
@@ -621,6 +633,8 @@ But when he shuts, none can open!
 Medici, in his note,
 states that measures are already taken to ameliorate the condition of the Gallerians,
 agreeably to the representations that I made.
+
+--
 
 Stephen Grellet was now ready to depart.
 Six years ago, it will be remembered, during his great conflict at Genoa,

@@ -1,12 +1,17 @@
 == Chapter XLI.
 
+[.chapter-subtitle--blurb]
 Third Visit to Europe
 
-Switzerland
+[.chapter-synopsis]
+* Switzerland
 
 It was a matter of great interest to Stephen Grellet to
 re-visit the scenes of his past labours in the Swiss Cantons.
 On the 26th of First month, 1820, he reached St. Gallen, and writes:
+
+[.embedded-content-document]
+--
 
 I left Stutgard in the evening of the 24th, travelled two nights and one day,
 and arrived here this morning, so little fatigued that, without taking any rest,
@@ -83,7 +88,7 @@ witnessing the truth that there is but one Lord, one faith, and one baptism.
 Our souls were refreshed and comforted together.
 
 Berne.
-Second month, 1st. I left Zurich yesterdav, early.
+Second month, 1st. I left Zurich yesterday, early.
 By travelling both day and night, I arrived here this morning,
 and met again my former kind attendant and interpreter, L`' Orsa,
 who has accompanied me to several families, where I had some religious service.
@@ -290,7 +295,7 @@ then entered upon a fearful spiritual struggle,
 defending with my whole strength my still feeble faith,
 yet sometimes falling under the blows of the enemy.
 I was inwardly consumed.
-There was not a moment iu which I was not ready to
+There was not a moment in which I was not ready to
 lay down my life for the faith I professed;
 and never did I ascend the pulpit without being able to proclaim, with fulness of faith,
 salvation by Jesus.
@@ -399,6 +404,8 @@ On this account I shall always remember the words of Scripture,
 // lint-disable invalid-characters
 let him glory in the Lord.`"--See D`'Aubigné`'s [.book-title]#Germany, England, and Scotland#.
 New York edition, 1848.]
+
+--
 
 Now apprehending that the time had arrived for dear Allen and I
 to be once more separated for a short season,--he to return to

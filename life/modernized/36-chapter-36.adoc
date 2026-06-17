@@ -1,8 +1,13 @@
 == Chapter XXXVI.
 
+[.chapter-subtitle--blurb]
 Third Visit to Europe
 
-Corinth--Patras--Zante--Corfu
+[.chapter-synopsis]
+* Corinth
+* Patras
+* Zante
+* Corfu
 
 They now "`departed from Athens and came to Corinth.`"
 This place so closely connected with the life and
@@ -27,6 +32,9 @@ With deepened feelings of Christian fellowship they took leave of each other.
 William Allen went to Malta, on his homeward course;
 and Stephen Grellet embarked for Italy.
 Pursuing his narrative he says:--
+
+[.embedded-content-document]
+--
 
 Eighth month, 28th. We left Athens early this morning on horseback.
 The roads were hilly and stony, and the sun very hot.
@@ -142,11 +150,16 @@ though it is too small for any of us to attempt to lie down.
 Next morning, the wind continuing high and stormy,
 we endeavoured to hire mules to take us by land the remainder of the journey to Patras.
 
+--
+
 Through much difficulty and fatigue they reached that place on the 3rd of Ninth month.
 They found the people on the road in a state of great ignorance,
 and "`a truly affecting degree of insensibility,
 many of the monks not appearing to understand that they had a soul to save,
 or even that there is a God.`"
+
+[.embedded-content-document]
+--
 
 "`We found very little in Patras,`" Stephen Grellet continues, "`to comfort our spirits,
 except a few individuals who manifested some religious tenderness.
@@ -154,9 +167,14 @@ How deeply do I deplore the conduct of some of the monks here.
 By their evil example they entice many of the poor ignorant people into vice.
 Our way appears now pretty clear to leave the Morea for some of the Ionian Isles.`"
 
+--
+
 They left Patras the next day, and, after a good passage, arrived at Zante.
 There they had to perform quarantine,
 on account of the plague which prevailed in Turkey and Greece.
+
+[.embedded-content-document]
+--
 
 Zante, 5th of Ninth Month.
 Through the kindness of Colonel Ross, Commandant of this island, and of Doctor Thomas,
@@ -246,10 +264,15 @@ single-handed, in the further service my blessed Master has for me in other nati
 not only to go to Rome, but to die there also,
 should he order that my life be like a seal to the Gospel service required of me there.
 
+--
+
 For some days William Allen had occasionally suffered from headache.
 Soon after the preceding record he was obliged to "`give
 up entirely to nursing,`" and became very seriously ill.
 Stephen Grellet continues:--
+
+[.embedded-content-document]
+--
 
 19th. My beloved companion has a high fever.
 I also receive heavy tidings from some of my relatives in France;
@@ -409,11 +432,16 @@ where the children might be educated in the principles of morality, virtue and r
 The General appears disposed to take steps towards this,
 and have qualified and pious teachers from England for the purpose.
 
+--
+
 Occupied to the last with the objects of his mission and cheered
 by seeing his beloved companion so much improved in health,
 Stephen Grellet was now brought to the parting hour.
 It was an interesting and a solemn one;
 it is thus alluded to on board the vessel that was to take him to Barletta.
+
+[.embedded-content-document]
+--
 
 20th. At sea, on the Adriatic.
 This morning, previous to our separation,
@@ -425,3 +453,5 @@ had banded us together, we resigned one another to His will,
 and we commit ourselves to His guidance and protection.
 I leave him peacefully, under the care of Doctor Skey, a very kind friend to him.
 The Doctor accompanied me on board the vessel at two p.m.
+
+--

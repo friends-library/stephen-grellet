@@ -1,9 +1,22 @@
 == Chapter LIX.
 
+[.chapter-subtitle--blurb]
 Fourth Visit to Europe
 
-Lyons--Avignon--Aix--Nismes--Congenies,
-etc.--Montpellier--Touluse--Brives--Perigueux--Bergerac--St. Julien--Bordeaux--Bayonne
+[.chapter-synopsis]
+* Lyons
+* Avignon
+* Aix
+* Nismes
+* Congenies, etc.
+* Montpellier
+* Touluse
+* Brives
+* Perigueux
+* Bergerac
+* St. Julien
+* Bordeaux
+* Bayonne
 
 Returning from the valleys of Piedmont,
 Stephen Grellet went to revisit the scenes of his early college life;
@@ -12,7 +25,11 @@ who profess with Friends in the South of France;
 and to pay a last farewell visit to his beloved mother and near connections
 in the different places of their abode on his way to the borders of Spain.
 
+[.offset]
 In continuation of his diary he writes:
+
+[.embedded-content-document]
+--
 
 Lyons, Eleventh month, 30th. I arrived here late last night, by the way of Suze,
 Mont Cenis, and Chambery.
@@ -107,9 +124,14 @@ Francis Gourrier`'s father, and other branches of his family,
 are also becoming convinced of the errors of Popery.
 I had a satisfactory season with them.
 
+--
+
 From Aix he passed on to Nismes, and having visited a few persons there,
 he proceeded at once to mingle, for the last time,
 with the little company of Friends in those parts.
+
+[.embedded-content-document]
+--
 
 Congenies, 6th. I came here last evening,
 and was very kindly received by my valued friends, Louis Majolier and family;
@@ -285,8 +307,13 @@ we sat down together and were comforted in his presence.
 He condescended to bless and break a little bread among us,
 and to hand us a cup of consolation.
 
+--
+
 After this parting opportunity Stephen Grellet set off for Montpellier,
 and arrived there the same evening:
+
+[.embedded-content-document]
+--
 
 Lyssignol, one of the Protestant clergymen here with whom I have long been acquainted,
 came soon to see me; he maintains his integrity in the Truth,
@@ -356,8 +383,13 @@ Some of them are in a seeking, tender frame of mind.
 I feel much for them.
 To the Lord and his Spirit I direct them.
 
+--
+
 A wintry journey of two nights and one day brought him once more to Brives,
 where he writes:
+
+[.embedded-content-document]
+--
 
 5th. I find my beloved mother in a very tender state of mind, green in old age.
 Her heart seems to be full of love to the dear Saviour.
@@ -552,6 +584,8 @@ Joseph Veisaz is very much devoted in spreading the Scriptures,
 particularly on the Pyrenees among the Basques,
 into whose language the New Testament is translated.
 We had a very interesting meeting at his house with some tender-minded people.
+
+--
 
 Their detention by the quarantine on the French side
 of the Spanish frontier had now ceased,

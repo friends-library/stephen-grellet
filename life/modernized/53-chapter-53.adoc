@@ -1,8 +1,13 @@
 == Chapter LIII.
 
+[.chapter-subtitle--blurb]
 Fourth Visit to Europe
 
-Wittenberg--Halle--Weimar--Leipzig
+[.chapter-synopsis]
+* Wittenberg
+* Halle
+* Weimar
+* Leipzig
 
 Halle, Weimar, and Leipzic, places of peculiar though very different interest,
 next attracted their attention, and they spent some days in each.
@@ -10,6 +15,9 @@ On their way from Berlin to the first, they passed through Wittemberg,
 the cradle of the Reformation, and the scene of "`Luther`'s development,
 and Luther`'s work.`"^
 footnote:[D`'Aubigne`'s [.book-title]#"`History of the Reformation.`"#]
+
+[.embedded-content-document]
+--
 
 "`It was here,`" says Stephen Grellet,
 "`that he first engaged in the great work of the
@@ -65,7 +73,7 @@ bringing the affecting tidings of the spread of the cholera in the United States
 particularly in New York and Philadelphia;
 informing me also of the illness of my beloved wife and daughter;--but
 surely the Lord is a strong and sure refuge in time of trouble.
-He is the Hock, and there is no unrighteousness in him.
+He is the Rock, and there is no unrighteousness in him.
 If my soul is sinking under the weight of oppression, let it be,
 O Lord! to sink only to come through the deeps to you,
 my rock and sure foundation.--To you, my life, my all has been offered up;
@@ -430,3 +438,5 @@ ever keeping in mind that the end for which tribulation is dispensed,
 is that it should work patience,--patience, experience,--and experience, hope,
 which makes not ashamed, the love of God, through Jesus Christ,
 being shed abroad in the heart.
+
+--

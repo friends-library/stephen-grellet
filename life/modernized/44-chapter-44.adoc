@@ -1,13 +1,18 @@
 == Chapter XLIV.
 
-Voyage Home--Arrival at New York--Philadelphia, New York,
-and New England Yearly Meetings--Visit to Friends and Others within their Compass,
-and in Canada
+[.chapter-synopsis]
+* Voyage Home
+* Arrival at New York
+* Philadelphia, New York, and New England Yearly Meetings
+* Visit to Friends and Others within their Compass, and in Canada
 
 Stephen Grellet embarked at Liverpool in the James Monroe, Captain Rogers.
 Though sometimes becalmed--surrounded by thick fogs--and exposed to "`heavy squalls
 and stormy winds`"--his homeward voyage did not occupy much more than five weeks.
 He landed safely at New York on the Seventh of Eighth Month, 1820.
+
+[.embedded-content-document]
+--
 
 At Sea.
 Seventh month, 1st, 1820.
@@ -150,11 +155,18 @@ and hast preserved your poor servant amidst many
 perils and sore conflicts in distant nations,
 be near now, also, to uphold and preserve under present and impending trials.
 
+--
+
 A few months after his return an interesting little glimpse of his inner life,
 and the endearments of home, is afforded in two extracts from letters.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To George Stacey
 
+[.signed-section-context-open]
 New York, 12th month 8th, 1820.
 
 I hear but seldom of William Forster.^
@@ -174,8 +186,15 @@ and to number them.
 My R. G. and myself are comfortably settled for the present, and, with thankful hearts,
 enjoy our chimney corners, our little charge enlivening the scene.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same
 
+[.signed-section-context-open]
 New York, 2nd month 28th, 1821.
 
 My health is but feeble.
@@ -190,10 +209,15 @@ where I have some prospect of going, should my health permit.
 My R. G. and myself are often bowed in much gratitude under a sense of our many favours,
 and we esteem it a great one to pass now so much time together.
 
+--
+
 A longer tarriance at home and the renewal of more frequent fellowship with his friends,
 did not remove his fears.
 His love for Christ did not allow him to remain a
 silent observer of what was passing around him.
+
+[.embedded-content-document]
+--
 
 1821+++.+++ Third month, 1st. The spirit of infidelity is gradually progressing,
 and the eyes of many seem to be so darkened that they cannot see,
@@ -207,11 +231,16 @@ but now wounds are inflicted in the house of my friends,
 among those with whom I had felt, heretofore, the fellowship of the Spirit of Christ,
 uniting us together in the bond of peace.
 
+--
+
 In the Fourth month he attended the Yearly Meeting in Philadelphia,
 and returned home in time to be at his own in New York, in the Fifth month.
 After that, accompanied by his wife, he went to the Yearly Meeting for New England,
 and visited many of the meetings belonging to it.
 On a review of these labours, he makes the following record:
+
+[.embedded-content-document]
+--
 
 Ninth month, 1821.
 Last Fourth month I attended the Yearly Meeting in Philadelphia,
@@ -280,6 +309,8 @@ well persuaded that though many become like broken vessels,
 yet none of those that trust in Him shall be confounded,
 though they may be brought into the furnace, and there be tried as silver is tried.
 
+--
+
 He was now permitted to remain at home for a while.
 The ensuing winter and spring were mostly spent in the bosom of his own family.
 The "`care of the churches,`" nevertheless, still rested heavily upon him,
@@ -287,6 +318,9 @@ and soon after the conclusion of his own Yearly Meeting, in the Fifth month of 1
 he again entered upon an extensive religious visit to Friends and others,
 in some parts of the United States, and Canada.
 Of these various engagements he gives the following summary.--
+
+[.embedded-content-document]
+--
 
 Accompanied by my dear friend, John Hancock,
 who was my very kind attendant during my religious visit to the island of Hayti,
@@ -350,6 +384,8 @@ The Lord owned them by his Divine presence, as he also did those more select,
 held for Friends only.
 They conducted their business with religious weight.
 
+--
+
 Here Stephen Grellet was in the neighbourhood of David Wilson,^
 footnote:[H. C. Backhouse, that noble-hearted, devoted servant of Christ,
 had an interview with him in 1833,
@@ -362,6 +398,9 @@ in "`drawing away disciples after him.`"
 After remarking upon the danger of assuming high notions of spirituality,
 apart from a practical belief in the great facts and fundamental truths of Christianity,
 made known in the New Testament, Stephen Grellet goes on to say:
+
+[.embedded-content-document]
+--
 
 These people surely evince that the description given in the Scriptures
 of the depravity of the human heart is not painted in too high colours,
@@ -427,3 +466,5 @@ taking up many of his lamentations as applicable to my own people.
 The great day of the Lord is near,--it is near!
 O Lord! be a strong refuge to those whose trust is in you, and who cannot deny you,
 whatever their sufferings may be!
+
+--

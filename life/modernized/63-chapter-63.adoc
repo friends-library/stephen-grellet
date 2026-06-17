@@ -1,9 +1,11 @@
 == Chapter LXIII.
 
+[.chapter-subtitle--blurb]
 Fourth Visit to Europe
 
-Concluding Services in England, Scotland,
-and Ireland--Voyage to America and Safe Arrival at Home
+[.chapter-synopsis]
+* Concluding Services in England, Scotland, and Ireland
+* Voyage to America and Safe Arrival at Home
 
 After his peaceful return from the European Continent,
 Stephen Grellet was not long before he resumed his
@@ -11,6 +13,9 @@ Christian labours among his friends in England.
 He visited the meetings in and about London, as far as Buckinghamshire,
 which kept him closely occupied till near the time of the Yearly Meeting.
 In connection with this he writes:
+
+[.embedded-content-document]
+--
 
 A Conference, largely attended by Friends from various parts of the nation,
 was in session for some time before the Yearly Meeting.
@@ -173,7 +178,13 @@ for some I am aware stand on dangerous ground;
 zeal without knowledge has often done much harm; so it may be with some,
 for whom I have both felt and suffered deeply.
 
+--
+
+[.offset]
 On arriving again in England, he writes:
+
+[.embedded-content-document]
+--
 
 Liverpool.
 Eleventh month,
@@ -291,6 +302,8 @@ which I was thankful in being permitted to sit mostly in silence,
 feeling as one that needed to be ministered to; a great weight is upon me,
 as the Yearly meeting here is drawing near.
 
+--
+
 It was a time of unsettlement in regard to interesting and
 important questions of a doctrinal and practical character.
 Stephen Grellet deeply sympathized with his friends in their trials;
@@ -309,6 +322,9 @@ While, therefore, earnestly concerned that, both in principle and in practice,
 they might be preserved faithful to Christ, and the leadings of the Holy Spirit,
 according to the Scriptures,--keeping the foundation firm,
 and the superstructure unharmed, his labours were to the comfort of his brethren.
+
+[.embedded-content-document]
+--
 
 Fifth month, 18th. The Yearly Meeting of Ministers and Elders beginning tomorrow,
 many Friends have already arrived, so that all their meetinghouses were crowded today.
@@ -369,6 +385,8 @@ the Lamb to celebrate his praise forever.
 The parting between dear Allen and myself has been sweet and solemn;
 we were very reverently prostrated together before the Lord.
 
+--
+
 There is something very touching in this simple record of the faithful minister of Christ,
 towards the conclusion of his Gospel mission in England and in Europe;
 and the interest can scarcely fail to be deepened
@@ -401,20 +419,33 @@ footnote:[Life of William Allen.--Vol.
 iii, pp.
 173 and 174.]
 
+[.offset]
 Stephen Grellet proceeded towards Liverpool the same evening.
+
+[.embedded-content-document]
+--
 
 Accompanied by my beloved friends, John and Mary Hustler, who took me in their carriage,
 I left London on Seventh-day evening and came to Luton that night,
 attended their meeting the next day, and reached Bradford on the 3rd of Sixth month; and,
 still accompanied by the same dear friends, I came to Liverpool.
 
+--
+
+[.offset]
 From there he writes:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Allen
 
-My beloved Friend,
-
+[.signed-section-context-open]
 Liverpool, 6th mo., 7th, 1834.
+
+[.salutation]
+My beloved Friend,
 
 I have no letter from my beloved wife, as I had fondly expected.
 This is a further opportunity for my will to bow down in submission.
@@ -457,19 +488,29 @@ We have had a very solemn parting season at Thomas Thompson`'s with many Friends
 Farewell in much love, my very dear friends; my heart is very closely bound to you,
 and to our dear friends among you who stand steadfast in the Gospel of the dear Saviour.
 
+[.signed-section-closing]
 Your warmly attached friend,
 
-Stephen Grellet.
+[.signed-section-signature]
+Stephen Grellet
+
+--
 
 Next morning, the eighth of Sixth month, 1834, he embarked,
 on board the packet-ship Pocahontas, Captain West, for Philadelphia.
 During the voyage he had an opportunity, by a passing vessel,
 of sending a letter he had begun.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Allen
 
+[.signed-section-context-open]
 On board the Pocahontas, 6th mo., 13th, 1834.
 
+[.salutation]
 My much beloved Friend,
 
 I closed my last farewell from British shores to you, your precious wife,
@@ -607,14 +648,22 @@ We are in Lat.
 40, Long.
 56.
 
+[.signed-section-closing]
 In much love to you all,
 
+[.signed-section-closing]
 Your nearly attached,
 
-S+++.+++ Grellet.
+[.signed-section-signature]
+S+++.+++ Grellet
+
+--
 
 On his arrival at home,
 he makes the concluding record respecting this his fourth and last visit to Europe.
+
+[.embedded-content-document]
+--
 
 We had a long but good passage, and arrived at Philadelphia the 21st of Seventh month.
 That afternoon I went to Burlington, and met my beloved wife and daughter.
@@ -650,3 +699,5 @@ though the loss of their property, imprisonment and death,
 were the consequence of their faithfulness.
 To my great comfort I have seen clear evidence of
 this manifested by some dear young Friends.
+
+--

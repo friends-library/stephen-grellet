@@ -1,11 +1,17 @@
 == Chapter LXI.
 
+[.chapter-subtitle--blurb]
 Fourth Visit to Europe
 
-Spain--Valencia
+[.chapter-synopsis]
+* Spain
+* Valencia
 
 They left Madrid early in the morning of the 12th of Third month.
 On reaching Valencia Stephen Grellet continues his journal:
+
+[.embedded-content-document]
+--
 
 Valencia.
 Third month, 15th. We arrived here about noon this day.
@@ -336,3 +342,5 @@ to have her removed to Spain and shut up in this convent.
 Very soon after this, and before anything could be done for her rescue,
 the physician was himself imprisoned,
 and he has not been able to hear anything of her since.
+
+--

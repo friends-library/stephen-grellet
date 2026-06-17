@@ -1,8 +1,15 @@
 == Chapter LII.
 
+[.chapter-subtitle--blurb]
 Fourth Visit to Europe
 
-Hanover--Brunswick--Quedlinburg--Magdeburg--Potsdam--Berlin
+[.chapter-synopsis]
+* Hanover
+* Brunswick
+* Quedlinburg
+* Magdeburg
+* Potsdam
+* Berlin
 
 Their stay in Hanover and places on their way to Berlin was short;
 but in the Prussian capital they were detained nine days in the
@@ -10,6 +17,9 @@ prosecution of the interesting objects of their Christian embassy.
 They met with many who "`worshipped God,
 and whose hearts the Lord opened that they attended
 to the things which were spoken`" by them.
+
+[.embedded-content-document]
+--
 
 On our way to Hanover, we tarried a few hours at Eilsen, near Buckebui-g, a clean,
 beautiful place, of great resort, its mineral waters being in high repute.
@@ -734,3 +744,5 @@ which is able to build us up and to give us an inheritance among them that are s
 we took a solemn and probably a final farewell of one another.
 Several of them accompanying us, we went to the post-house, and at six p.m.,
 we set off for Wittemberg.
+
+--

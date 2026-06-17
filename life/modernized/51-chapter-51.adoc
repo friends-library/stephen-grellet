@@ -1,8 +1,13 @@
 == Chapter LI.
 
+[.chapter-subtitle--blurb]
 Fourth Visit to Europe
 
-Holland--The Rhine Country--Pyrmont.--Minden
+[.chapter-synopsis]
+* Holland
+* The Rhine Country
+* Pyrmont
+* Minden
 
 Since his landing at Liverpool,
 Stephen Grellet had spent a whole year in diligently labouring in the
@@ -22,7 +27,11 @@ peculiar interest to this labour of love,
 and brightness to this work of faith.
 It was like distributing the well ripened fruit of his autumn life.
 
+[.offset]
 His records continue the thread of the narrative:
+
+[.embedded-content-document]
+--
 
 Seventh month, 4th, 1832.
 In company with dear William Allen I left London yesterday, by the steamer Atwood,
@@ -255,9 +264,14 @@ and the produce of bees, of which they have a considerable number.
 Every family is provided with boats, to which they are frequently obliged to resort,
 by the rising of the water that surrounds them.
 
+--
+
 Of the interesting establishments for the poor,
 commenced under the superintendence of General van der Bosch,
 Stephen Grellet gives the following account.--
+
+[.embedded-content-document]
+--
 
 Fredericksoord, which is colony number one, is the largest and the first that was formed.
 Number two, called Williamsoord, is very near it.
@@ -613,3 +627,5 @@ but as the same anointing teaches you of all things, and is truth, and is no lie
 
 Our minds being now released from these parts,
 we left Minden early in the morning on the 13th for Hanover.
+
+--

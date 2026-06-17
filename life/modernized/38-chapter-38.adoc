@@ -1,8 +1,10 @@
 == Chapter XXXVIII.
 
+[.chapter-subtitle--blurb]
 Third Visit to Europe
 
-Rome
+[.chapter-synopsis]
+* Rome
 
 Pius VII was in the last years of his Pontificate.
 He had lived in eventful times.
@@ -23,6 +25,9 @@ Grellet visited Rome, and was admitted to a personal interview with him.
 During the fortnight which Stephen Grellet spent in the Papal city,
 his Christian labours were varied, and almost incessant.
 Interesting particulars are preserved in his Diary.
+
+[.embedded-content-document]
+--
 
 Rome, 25th of Eleventh month, 1819.
 I left Naples on the 23rd, in the evening.
@@ -730,6 +735,8 @@ but when I came to the post-house, I met one of the attendants of the Cardinal,
 who told me that the Courrier had orders to wait for me; that, therefore,
 I need not hurry myself.
 I was, however, ready to go.
+
+--
 
 So Stephen Grellet concludes the account of his visit to Rome.
 By the grace of God he was what he was.
