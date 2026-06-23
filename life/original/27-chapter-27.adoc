@@ -1,8 +1,10 @@
 == Chapter XXVII.
 
+[.chapter-subtitle--blurb]
 Third Visit to Europe
 
-Norway and Sweden
+[.chapter-synopsis]
+* Norway and Sweden
 
 Stephen Grellet now entered upon his third "`Missionary Journey`" on the European Continent.
 To have a fellow-labourer in this important service so entirely
@@ -19,6 +21,9 @@ and there is good reason to believe that the union was owned and blessed of the 
 Banded together in His service,
 the Christian brothers spent about two months in Norway and Sweden,
 and Stephen Grellet thus notices their religious engagements.
+
+[.embedded-content-document]
+--
 
 Norway.--Stavanger, Eighth month, 25th, 1818.
 Through Divine favour we arrived here this day, i.e. William Allen, Enoch Jacobson,
@@ -230,8 +235,13 @@ The people on the little island have daily gathered about him whilst he read it 
 and he expects they will continue to meet together for that purpose,
 chiefly in the evening, and on Firstdays.
 
+--
+
 Having been detained several days by stress of weather,
 they did not leave Tananger till the 6th, on their way to Christiansand.
+
+[.embedded-content-document]
+--
 
 9th. Christiansand.
 It has taken us two days to come here in our little vessel, which we have now discharged,
@@ -272,11 +282,16 @@ We pressed upon them to return to the good old way from
 whence they have swerved in the day of temptation.
 They were brought into much tenderness, and we parted from them in Christian love.
 
+--
+
 Leaving Christiansand on the 11th,
 they availed themselves of several opportunities for religious service,
 during a long and perilous journey of nearly ten days, to Christiania, by way of Arendal,
 Brevig, Holmestrand, and Drammen.
 Stephen Grellet remarks:
+
+[.embedded-content-document]
+--
 
 Arendal, 13th. This place is only eight Norwegian miles from Christiansand,
 and yet it has taken us two days to travel it;
@@ -366,6 +381,8 @@ by having a meeting with the little company that profess with us.
 Some of them are in a tender state.
 May the Lord bring to perfection the work that is begun among them!
 
+--
+
 Having now completed their services in Norway,
 they left Christiania about noon of the 28th of the Ninth month,
 and proceeded in a direct course to Stockholm,
@@ -387,6 +404,9 @@ and were detained in the Swedish capital more than three weeks.
 On a review of the various religious services in
 which they were engaged during that time,
 Stephen Grellet makes the following memoranda:
+
+[.embedded-content-document]
+--
 
 20th. We have been closely occupied since coming to this city,
 where we felt ourselves particularly concerned for the poor and the suffering.
@@ -573,6 +593,8 @@ After breakfast, other items of what has transpired in each province,
 of a political nature, or otherwise, are also brought before his consideration.
 In this way he had been made fully acquainted with our movements
 and engagements since our first arrival in Norway.
+
+--
 
 This second interview with the King of Sweden very much
 brought their labours in that country to a conclusion.

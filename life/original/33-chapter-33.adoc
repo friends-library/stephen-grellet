@@ -1,8 +1,16 @@
 == Chapter XXXIII.
 
+[.chapter-subtitle--blurb]
 Third Visit to Europe
 
-The Crimea--Karaite Jews--German and Swiss Colonies--Return to Perekop--Kherson--Nikolaiev--Odessa
+[.chapter-synopsis]
+* The Crimea
+* Karaite Jews
+* German and Swiss Colonies
+* Return to Perekop
+* Kherson
+* Nikolaiev
+* Odessa
 
 Arrived at the chief scene of attraction in the Crimea,
 Stephen Grellet and his companion at once resumed their accustomed work.
@@ -14,6 +22,9 @@ both among the rich and the poor, "`ready, as much as was in them,
 to preach the Gospel`" to all.
 Of their interesting labours in those parts, and the conclusion of their visit in Russia,
 at Odessa, Stephen Grellet gives the following description:
+
+[.embedded-content-document]
+--
 
 Simferopol, 5th of Sixth month.
 This place contains four thousand inhabitants, who are mostly Tartars and Turks;
@@ -487,10 +498,15 @@ and are forcibly struck with the minute correctness
 of the prophet`'s description of the sufferings,
 etc., of Christ.
 
+--
+
 Leaving Nikolaiev on the evening of the 22nd, they reached Odessa the next day.
 Here they were detained by various engagements,
 and finally closed their religious labours in Russia.
 Stephen Grellet continues:--
+
+[.embedded-content-document]
+--
 
 Odessa, 28th. We have been occupied these last days in writing several letters;
 one to the Emperor,
@@ -629,6 +645,8 @@ serious man.
 We afterwards went on board the ship, to have our baggage stowed away; she is a large,
 fine vessel, lately returned from the East Indies.
 This is a commodious port; many vessels from various nations are here at present.
+
+--
 
 The next day they set sail for Constantinople.
 "`I am under no apprehension,`" says Stephen Grellet,

@@ -1,9 +1,13 @@
 == Chapter XIX.
 
+[.chapter-subtitle--blurb]
 Second Visit to Europe
 
-Departure from England--Arrival in France--Detention
-at Morlaix--Religious Engagements in Paris.
+[.chapter-synopsis]
+* Departure from England
+* Arrival in France
+* Detention at Morlaix
+* Religious Engagements in Paris.
 
 Nearly two years had been spent in paying a general visit to Friends and others,
 in Great Britain and Ireland,
@@ -43,6 +47,9 @@ but, being now within the compass of another Yearly Meeting in a distant land,
 he sought its unity and concurrence before he passed beyond its limits
 to carry out his Gospel mission in some parts of the European continent.
 
+[.embedded-content-document]
+--
+
 "`At the Yearly Meeting for Ministers and Elders, the 17th of Fifth month,
 1813,`" he says,
 "`I informed Friends that I apprehended the time had nearly
@@ -78,7 +85,13 @@ their elders honourable in the church of Christ,
 they are also preparing to fill up, in due time, the same stations with dignity.
 My spirit has been greatly comforted in the Lord, on account of many of these.`"
 
+--
+
+[.offset]
 After the conclusion of the Yearly Meeting in London, he continues:
+
+[.embedded-content-document]
+--
 
 I now endeavoured to find out some way, whereby I might pass over to France;
 the weight of the work the Lord has laid upon me in that land, pressing heavily.
@@ -89,7 +102,13 @@ or even death, thou mayest see meet that he should be introduced.
 My friends have kindly undertaken to make inquiries, or be on the watch,
 should any opportunity present for my getting over to the continent.
 
+--
+
+[.offset]
 In the meantime, he was engaged in various religious services in and about the metropolis.
+
+[.embedded-content-document]
+--
 
 During my tarriance in London, I was not idle.
 A door for active Gospel labours was again opened
@@ -115,9 +134,14 @@ For a while a general weeping and sobbing prevailed,
 so that I had to cease speaking till they could compose themselves again into stillness.
 May the Lord bless his work, and carry it on even to the salvation of their souls.
 
+--
+
 The efforts of Friends in London to make arrangements with the Lords of
 the Admiralty for a safe passage to France had now been successful,
 and, on the eve of his departure for his native land, Stephen Grellet writes:
+
+[.embedded-content-document]
+--
 
 I have had two very solemn meetings with Friends, and some parting opportunities.
 May the bread wherewith the Lord was pleased to feed my soul, be to me like that bread,
@@ -138,8 +162,14 @@ and I have been strengthened afresh,
 under the feeling of the bonds and afflictions that await me, to say from the very heart,
 "`Thy will, O Lord, be done.`"
 
+--
+
+[.offset]
 Stephen Grellet once more safely reached his native country.
 On landing, he remarks:
+
+[.embedded-content-document]
+--
 
 My dear friends accompanied me to Gosport on board the Cartel Brilliant,
 bound for Morlaix, with forty-one French seamen or soldiers, prisoners of war,
@@ -268,6 +298,8 @@ How numerous are the distresses caused by war!
 The catalogue of sin, immorality, cruelty, bloodshed and misery that is entailed by it,
 is beyond description.
 
+--
+
 On his arrival in Paris, he was pleased to meet his brother, Peter de Grellet,
 with his wife and family; but in reference to the object of his mission,
 "`very dull prospects were before him.`"
@@ -284,6 +316,9 @@ he could make the grateful acknowledgment, "`The radiant beam of faith, now and 
 opens something like a crevice through the thick cloud which surrounds me.
 It is a great thing to walk by faith, and not by sight,--to live by faith.`"
 He proceeds:
+
+[.embedded-content-document]
+--
 
 Soon after arriving in the capital of France, I went to see Pomier Rabans and Goep,
 one a member of the Lutheran church, the other of the Reformed.
@@ -472,3 +507,5 @@ and sent in separate parcels to various parts,
 through which I expect to travel on my way southward.
 I hope that now such an interest begins to be awakened respecting the Scriptures,
 that the other copies, yet in sheets, will soon be put in a way for useful circulation.
+
+--

@@ -1,15 +1,28 @@
 == Chapter XX.
 
+[.chapter-subtitle--blurb]
 Second Visit to Europe
 
-Departure from Paris--Visit to Limoges--Brives--His
-Mother--Montauban--Toulouse--Albt--Rodez--Montpellier--Congenies, etc.
+[.chapter-synopsis]
+* Departure from Paris
+* Visit to Limoges
+* Brives
+* His Mother
+* Montauban
+* Toulouse
+* Albt
+* Rodez
+* Montpellier
+* Congenies, etc.
 
 Leaving Paris, he proceeded to Limoges, and the scenes of his earlier days;
 and having spent some time amongst his relatives in those parts,
 he extended his travels to the south of France,
 to re-visit the little community who profess with Friends in Languedoc.
 Of this journey the following particulars are given:
+
+[.embedded-content-document]
+--
 
 I left Paris the 15th of the Eighth month, 1813.
 The first place where I made a short tarriance was Orleans.
@@ -118,9 +131,14 @@ It was a baptizing season; the love of Christ was felt sweetly to flow,
 and they were earnestly pressed henceforth to evince that they love Him,
 not by words only, but by deeds.
 
+--
+
 Leaving the place of his nativity, he reached Brives, the residence of his mother,
 late in the evening of the 29th of Eighth month.
 He remarks:
+
+[.embedded-content-document]
+--
 
 I am much comforted in being permitted to be again with my beloved aged mother, who,
 since I was here, has, under the teachings of the grace of God,
@@ -185,10 +203,15 @@ and under the sensible influences of his Divine Spirit,
 that we can become convinced of the real truths of Christianity,
 and by the grace of God be enabled to put them in practice.`"
 
+--
+
 Amidst these engagements at Brives,
 Stephen Grellet`'s mind was brought into much exercise on
 account of the horrors of war which came to his ears,
 and he writes in a letter to a friend, 5th of Ninth month:
+
+[.embedded-content-document]
+--
 
 Much heaviness attends me; the whole earth,
 all the elements seem in commotion--"`wars and rumors of wars.`"
@@ -217,7 +240,13 @@ so that though the sea roar and dash its waves, His everlasting arm is near,
 my soul humbly and gratefully acknowledges.
 Most abundantly I can--I ought to sing His praise, to proclaim His wondrous doings.
 
+--
+
+[.offset]
 His memoranda proceed:
+
+[.embedded-content-document]
+--
 
 I left Brives the 7th of Ninth month for Toulouse,
 stopping on my way to visit some piously-inclined persons at Cassades,
@@ -301,12 +330,17 @@ I earnestly entreated them to believe in the Lord Jesus Christ,
 who could sanctify all their afflictions,
 or make a way for their release in a manner they did not know.
 
+--
+
 At Rodez he had much satisfaction in being with his brothers, Peter and Joseph.
 The former held the post of Receiver-General of that district,
 and had returned with his family from Paris, a little before his own arrival.
 His mother also had joined the circle of relatives.
 Towards the conclusion of his religious engagements in that neighbourhood, he remarks,
 in a letter to a friend, Ninth month, 20th:
+
+[.embedded-content-document]
+--
 
 I requested a religious opportunity with my brothers and their families,
 and my mother and uncle, which was readily granted.
@@ -326,10 +360,15 @@ Is it to prepare me to hear of new scenes of devastation and cruelty?
 O Lord! when will the end of all this be?
 How long shall man be to man his most cruel tormentor?
 
+--
+
 Leaving Rodez at ten o`'clock in the evening of the 20th,
 he travelled day and night over a mountainous and very rough country,
 and reached Montpellier on the 23rd of Ninth month.
 Resuming his memoranda, he says:
+
+[.embedded-content-document]
+--
 
 It was a trying parting from my dear mother; it may prove a final one.
 I parted from her with a grateful heart,
@@ -538,6 +577,8 @@ and of my object in having such meetings "`to which,`" he said,
 "`the people are flocking in such crowds.`"
 On finally parting, he manifested good will towards me.
 
+--
+
 Having thus narrowly escaped the walls of a prison at Nismes,
 Stephen Grellet took a short journey to Montpellier,
 and had several religious interviews with pious individuals and families there,
@@ -564,6 +605,9 @@ that people--that he has yet a seed among them,
 which he cherishes and visits.`"
 The next day, 18th of Tenth month, he adds:--
 
+[.embedded-content-document]
+--
+
 This morning I have taken a solemn farewell of Friends who have come generally
 to Majolier`'s. The Lord`'s power has broken in upon us in a remarkable manner.
 A most solemn silence covered us.
@@ -571,3 +615,5 @@ Truly the spirit of prayer and thanksgiving was upon us.
 It is indeed the end that crowns all.
 I had at last to tear myself from the arms of these dear friends,
 some of them following us even to Nismes.
+
+--

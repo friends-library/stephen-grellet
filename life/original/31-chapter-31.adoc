@@ -1,8 +1,13 @@
 == Chapter XXXI.
 
+[.chapter-subtitle--blurb]
 Third Visit to Europe
 
-Russia--Novgorod--Tver--Moscow
+[.chapter-synopsis]
+* Russia
+* Novgorod
+* Tver
+* Moscow
 
 It was no small comfort to Stephen Grellet, on his departure from Petersburg,
 to be able to look forward to the continued companionship of his beloved friend,
@@ -25,7 +30,11 @@ They were, I think, of all men, most fit to move in such a work, in such a place
 and under such circumstances.`"^
 footnote:[Daniel Wheeler`'s Memoirs, page 73.--Ed. 1842.]
 
+[.offset]
 At Novogorod, Stephen Grellet continues his memoranda:
+
+[.embedded-content-document]
+--
 
 Third month, 18th, 1819.
 We came here this evening in twenty-four hours,
@@ -42,7 +51,13 @@ seventy died a few weeks or months after admission.
 It is a great question whether these institutions,
 originally intended as establishments of mercy, do not more harm than good.
 
+--
+
+[.offset]
 At Tver they made a little longer stay, and had some interesting engagements.
+
+[.embedded-content-document]
+--
 
 Tver, 22nd. Travelling three hundred and eighty versts in three days and two nights,
 we came here this evening.
@@ -102,9 +117,14 @@ who cannot be satisfied with their outward forms of religion; their inquiry is,
 may the Lord perfect his work, which, through the operation of his Divine Spirit,
 he has begun in the hearts of several of these people.
 
+--
+
 Moscow afforded them a still wider field of usefulness,
 and many objects of deep interest claimed their attention.
 Stephen Grellet gives the following details of their numerous services:--
+
+[.embedded-content-document]
+--
 
 Moscow, 26th. We left Tver yesterday afternoon, travelling during the night,
 and arrived here this evening, one hundred and sixty-eight versts;
@@ -540,6 +560,8 @@ to see him in the way to become a true Christian was far more desirable to her, 
 than to have him heir of earthly treasures, or to obtain ever so many worldly honours.
 Our parting was a very tendering and solemn one.
 
+--
+
 It was quite cheering to Stephen Grellet to meet with such a character,
 and to mingle with such a group of pious Christians in the heart of Russia.
 He afterwards had some correspondence with the Countess, and "`her letters,`" he says,
@@ -573,6 +595,9 @@ given to us of God,`" through our Lord Jesus Christ.
 Stephen Grellet`'s own experience had prepared him
 tenderly to sympathize with kindred spirits.
 His journal proceeds:
+
+[.embedded-content-document]
+--
 
 25th. First-day.
 We have made the acquaintance of several piously disposed merchants,
@@ -662,3 +687,5 @@ to see that you were not imposed upon.`"
 29th. Amidst the necessary arrangements preparatory to our departure,
 we have received the visits of several persons who have come to bid us farewell;
 some have done so in great brokenness of spirit.
+
+--
