@@ -1,9 +1,15 @@
 == Chapter XXIV.
 
+[.chapter-subtitle--blurb]
 Second Visit to Europe
 
-Dublin Yearly Meeting--Religious Engagements in the Irish Capital--London Yearly
-Meeting--Various Religious Services in England--Flanders--Voyage Home
+[.chapter-synopsis]
+* Dublin Yearly Meeting
+* Religious Engagements in the Irish Capital
+* London Yearly Meeting
+* Various Religious Services in England
+* Flanders
+* Voyage Home
 
 It was not long before the "`Peace of Paris`" that,
 after an absence of a little more than nine months,
@@ -31,6 +37,9 @@ when he felt that his services in Europe had come to a close,
 and he was at liberty "`to resume in New York Mordecai`'s situation,
 sitting at the gate.`"
 On landing at Harwich he resumes his journal.
+
+[.embedded-content-document]
+--
 
 I was favoured with a short passage from Holland to this place.
 My soul felt the overflowing of the love and mercy of my blessed Redeemer;
@@ -130,8 +139,13 @@ I feel bound in Christian affection to these dear friends,
 as also to dear Margaret Allen, mother of William; she is a valuable minister,
 full of good works among the poor and afflicted.
 
+--
+
 After a short tarriance among his friends in and fioout London,
 he crossed over to Ireland, and thus continues his memoranda:
+
+[.embedded-content-document]
+--
 
 Dublin, 20th of Fourth month.
 Whilst I was in Germany,
@@ -213,10 +227,15 @@ used every means to prevent the effusion of blood,
 so that the entrance of the armies into Paris was
 more like the coming in of protectors than enemies.
 
+--
+
 The Yearly Meeting in London was now at hand, and, taking his departure from Dublin,
 he travelled day and night, and reached the city on First-day morning,
 the fifteenth of Fifth month, a quarter of an hour only before meeting-time,
 and proceeded immediately to the meetinghouse, in Grace-church street, where he says:
+
+[.embedded-content-document]
+--
 
 I found a large number of Friends, many from the various parts of the nation,
 having already come in to attend this yearly solemnity.
@@ -390,9 +409,14 @@ throughout the world; he told us that his concern had been great,
 that the several crowned heads might conclude to settle their differences by arbitration,
 and not by the sword.
 
+--
+
 After these interesting interviews Stephen Grellet went down to the North of England,
 and attended the Quarterly Meetings of York, Durham, Westmoreland, and Lancashire,
 holding many meetings by the way, and in returning to London.
+
+[.embedded-content-document]
+--
 
 I left London on the 25th of Sixth month for Yorkshire, accompanied by my dear friend,
 George Stacey, Jr.
@@ -467,8 +491,13 @@ prevail among them.
 O that the people would learn righteousness,
 whilst the judgments of the Lord are thus poured forth upon them!
 
+--
+
 A short time was now occupied in a visit to Kent and Sussex,
 from which he again returned to the neighbourhood of London.
+
+[.embedded-content-document]
+--
 
 Accompanied by Robert Forster, I went into Kent and Sussex.
 From Rochester I went on board a large prison-ship, below Chatham,
@@ -551,8 +580,13 @@ The meeting was a solemn one.
 The sense given of the preciousness in the sight of the
 Lord of the death of his saints was very animating.
 
+--
+
 His mind was now again brought into close exercise on behalf of
 some of his "`suffering fellow-men,`" and about this time he writes:
+
+[.embedded-content-document]
+--
 
 I had hoped for a release from further religious services in this land,
 and to be set at liberty by my blessed Master to retire
@@ -619,10 +653,15 @@ and my great concern and frequent labour for this people are,
 that they may not only believe in these principles and Divine Truths,
 but also walk uprightly and with faithfulness in accordance therewith.
 
+--
+
 At the conclusion of these services in and about London,
 his attention was once more turned to some parts of the Continent,
 and "`believing that he had a little further debt of Gospel love to discharge in Flanders,`"
 he "`resigned himself to the Lord`'s requirings,`" and crossed over to that country.
+
+[.embedded-content-document]
+--
 
 On the 14th of Ninth month, accompanied by George Stacey and Joseph Foster,
 we came to Margate, and set off immediately by the packet for Ostend;
@@ -707,6 +746,8 @@ I believe she is a poor vessel, but my trust is in the.
 Lord, that she will bring me safely over to America,
 and I feel a sweet calmness and peace of mind in the prospect of going by her.
 
+--
+
 After taking a solemn leave of his beloved English friends,
 Stephen Grellet went on board the Cartel about eight a.m., on the 29th of Tenth month,
 and the vessel set sail from Dartmouth a few hours after.
@@ -725,6 +766,9 @@ they were frequently exposed to much danger, and their prospects were often gloo
 trusting in him amidst our various difficulties and perils.
 The evidence he had given me, as I thought, that the ship should carry me safely,
 continued as an anchor to my soul, even when my fellow-passengers were in great dismay.`"
+
+[.embedded-content-document]
+--
 
 "`When in sight of the Jersey shore,`" he continues,
 "`we had so nearly finished the provisions which could at all be eaten, that,
@@ -760,3 +804,5 @@ On my arrival at New York I found that my beloved wife was at Burlington.
 We soon met there, and rejoiced together in the Lord for his great goodness to us both,
 exciting a desire that, through his Divine grace helping us,
 we may stand offered up to him and his service to the end of our lives.`"
+
+--

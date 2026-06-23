@@ -1,12 +1,19 @@
 == Chapter XVIII.
 
+[.chapter-subtitle--blurb]
 Second Visit to Europe
 
-Religious Engagements in London--Visit to the West of England--Return to London
+[.chapter-synopsis]
+* Religious Engagements in London
+* Visit to the West of England
+* Return to London
 
 Leaving Higham Lodge, Stephen Grellet came to London, to the house of "`his dear friends,
 Joseph and Rachel Smith, his very pleasant and comfortable home in the city.`"
 Here he remarks:
+
+[.embedded-content-document]
+--
 
 I soon felt the heavy Gospel bonds awaiting me in
 this metropolis to be rapidly fastening upon me.
@@ -138,11 +145,16 @@ than could be expected.
 Many of them, I believe, received the testimony I had to bear among them,
 in the love in which it was delivered.
 
+--
+
 Stephen Grellet had long felt much on behalf of the Jews resident in London;
 and in the course of his interesting labours in the service of Truth,
 a meeting was now held with them in Devonshire House Meetinghouse,
 which was well attended.
 In connection with this engagement, he resumes his memoranda:
+
+[.embedded-content-document]
+--
 
 Having observed,
 among the numerous boys and girls that stand at the corners of the streets,
@@ -378,6 +390,8 @@ and, if possible, the reform of their morals,
 and instilling into their minds the principles and love of the Christian religion, etc.,
 etc., as had been done, to some extent, on behalf of the boys.
 
+--
+
 In thus following Stephen Grellet through his Christian
 labours among the haunts of vice and infamy,
 and the abodes of crime and misery in the British capital, in 1813,
@@ -400,6 +414,9 @@ alluded with lively recollections to the circumstances
 and results of the interview with E. Fry,
 so graphically described by Stephen Grellet.
 The journal proceeds:
+
+[.embedded-content-document]
+--
 
 I also visited in Newgate the separate prisons for debtors, both men and women.
 These were divided into two classes; those who had moved in the higher ranks of life,
@@ -425,6 +442,8 @@ the release that my good Master gave me, for the present at least, from London,
 Gospel love prompting me now to visit Friends and
 others in some other parts of this nation.
 
+--
+
 Abounding, as Stephen Grellet thus did, in the work of the Lord,
 his labour was not in vain in Him,
 and on being permitted afterwards to see some of its results, he remarks, "`Thus,
@@ -434,6 +453,9 @@ in that those humiliating and trying services have
 tended to the relief of many poor sufferers,
 and I hope also to reclaim many from the paths of vice and misery.`"
 Of his visit to the West of England he thus writes:
+
+[.embedded-content-document]
+--
 
 Accompanied by my dear and valuable friends, Joseph and Rachel Smith,
 I left London the forepart of the Second month, for Reigate, Dorking, etc., etc.,
@@ -502,3 +524,5 @@ that he has had erected in Yorkshire, in the place of his nativity.
 He was of a meek and quiet spirit; humility appeared to be his clothing.
 Both he and his valuable wife often comforted me, last winter,
 during my arduous religious services in this great city.
+
+--

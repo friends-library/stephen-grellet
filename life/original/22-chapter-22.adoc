@@ -1,8 +1,17 @@
 == Chapter XXII.
 
+[.chapter-subtitle--blurb]
 Second Visit to Europe
 
-Munich--Augsburg--Landshut--Braunau--Kirchberg--Ratisbon--Nurenberg--Oettingen
+[.chapter-synopsis]
+* Munich
+* Augsburg
+* Landshut
+* Braunau
+* Kirchberg
+* Ratisbon
+* Nurenberg
+* Oettingen
 
 From Switzerland Stephen Grellet passed over into Bavaria.
 That country was then in a very interesting state,
@@ -27,7 +36,8 @@ though obliged to avoid much publicity, they desired to spread.
 From Bavaria sprang Lindel, Gossner, and Boos,^
 footnote:[See a valuable memorial of Boos,
 translated from the _Archives du Christianisme_.--Christian Observer, September,
-1827.]--those three faithful witnesses,
+1827.]
+--those three faithful witnesses,
 who were driven by persecution from place to place; and who,
 wherever they turned their steps,
 did not hesitate to proclaim that Gospel which had
@@ -45,6 +55,9 @@ was still patiently enduring severe persecution,
 in the midst of "`some thousands of spiritually minded persons in his
 own parish in Austria,`" when Stephen Grellet visited those parts.
 He thus continues his journal:
+
+[.embedded-content-document]
+--
 
 We crossed the Rhine at Rheineck, on my way to Munich.
 On getting into the diligence, I was agreeably surprised to meet with J. Graff, of Geneva.
@@ -282,11 +295,16 @@ that I was refreshed in body and mind,
 though I had travelled the whole of the night before,
 had close religious labours that day, and walked about twelve miles.
 
+--
+
 From Kirchberg he had intended to go to Gallneukirchen, near Lintz,
 to visit Boos in the scene of his labours and sufferings, but prevented,
 by circumstances not under his control, from effecting his purpose,
 he sent him a message of Christian sympathy and encouragement, by his friend Langenmeyer,
 and proceeded direct to Ratisbon.
+
+[.embedded-content-document]
+--
 
 "`On the road,`" he says, "`a heavy snow-storm overtook me;
 but the Lord renders hard things easy, so that, though in my open sleigh,
@@ -352,6 +370,8 @@ I spent most of an afternoon with the Princess Jeanette and the Baron Braun,
 in serious conversation.
 I left the palace in peace.`"
 
+--
+
 Three weeks had now been spent in the midst of a body of Christians in Bavaria, who,
 in the bosom of the Roman church, fully confessed, by their faith and practice,
 the grand fundamental principles of the Reformation.
@@ -360,6 +380,9 @@ many of the leading tenets and corruptions of Rome,
 had been attended with a large measure of blessing both to priests and people;
 and having taken his final leave of this portion of the Christian family,
 on reviewing his labours amongst them, Stephen Grellet writes to a friend in England:
+
+[.embedded-content-document]
+--
 
 The fields in many parts I have visited are white unto harvest,
 so that sometimes I have wished that I might have the life of Methuselah,
@@ -396,3 +419,5 @@ Some think I am a man of deep learning,
 whilst my greatest science is to know nothing--nothing but Jesus Christ,
 and him crucified.
 It is He who is mouth and wisdom, when my mouth is laid in the dust.
+
+--

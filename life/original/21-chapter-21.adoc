@@ -1,8 +1,18 @@
 == Chapter XXI.
 
+[.chapter-subtitle--blurb]
 Second Visit to Europe
 
-Marseilles--Nice--Genoa--Turin--Geneva--Lausanne--Berne--Zurich--St. Gallen
+[.chapter-synopsis]
+* Marseilles
+* Nice
+* Genoa
+* Turin
+* Geneva
+* Lausanne
+* Berne
+* Zurich
+* St. Gallen
 
 Quitting Languedoc and the Cevennes, Stephen Grellet went to Marseilles.
 Thence he "`essayed`" to go into Italy,
@@ -13,6 +23,9 @@ were chiefly confined to private interviews with pious individuals or families,
 and little companies of persons whose hearts had been directed
 "`into the love of God and the patient waiting for Christ.`"
 Interesting particulars of this visit are given in his memoranda.
+
+[.embedded-content-document]
+--
 
 Coming through Avignon and Aix, I paid some visits, particularly at the latter place,
 to pious Roman Catholics, and reached Marseilles on the 23rd of Tenth month, 1813.
@@ -26,6 +39,8 @@ We were several times refreshed together in our little select meeting.
 The Lord also very graciously owned some more public meetings I have had here,
 and visits paid in the love of Christ to several families,
 where the bread that He gave me to hand to them was blessed by Him.
+
+--
 
 Stephen Grellet had come to Marseilles with the prospect of going to Italy;
 and he was now brought into great conflict in looking
@@ -47,6 +62,9 @@ it right to choose the latter apparently impassable road:
 trusting in his Divine guidance,`" he left Marseilles on the 30th of Tenth month,
 and reached Nice in safety.
 There he thus continues his journal:
+
+[.embedded-content-document]
+--
 
 At this place my distress has been great.
 My heart is deeply affected by all I hear and see.
@@ -272,7 +290,13 @@ I have said,
 "`Thy will be done,`" and I have accordingly taken
 my passage in a carriage going to Geneva.
 
+--
+
+[.offset]
 After travelling five days and nights, he arrived in that city, and remarks:
+
+[.embedded-content-document]
+--
 
 As I proceeded on my way, I felt that I was leaving a heavy weight behind me,
 and that a bright light shone on my way forward;
@@ -281,6 +305,8 @@ the consolation of the Lord was so richly extended to me that my
 soul was poured forth in reverent gratitude before Him,
 surprised, nevertheless, in having been thus driven to Genoa, and now brought to Geneva;
 surely the Lord has wise designs in all this, though I do not understand it.
+
+--
 
 It was soon manifest that there was, indeed,
 "`a cause`" for this visit to the "`city of Calvin, of Farel,
@@ -292,6 +318,9 @@ The clergy at that time were, with scarcely an exception, Socinian;
 and there is ground to believe that Stephen Grellet`'s
 labours amongst them were permanently blessed.
 The journal continues:
+
+[.embedded-content-document]
+--
 
 Soon after my arrival, I called on some individuals for whom I had letters.
 Among these were Vaucher and Duby, both professors of theology at the university here.
@@ -440,6 +469,8 @@ Bless the Lord, O my soul! trust forever in the guidance of his Divine Spirit,
 who alone can and ought to direct thy steps, and all thy movements,
 especially in the service of the ministry of the Gospel, to which he has called thee.
 
+--
+
 More than a week had now been closely occupied with
 religious engagements in and about Geneva,
 and,
@@ -448,6 +479,9 @@ individuals in various parts of Switzerland and Germany,
 Stephen Grellet left that city.
 At Lausanne, he met with many of the followers of Madam Guyon, called Pietists.
 Respecting these he remarks:
+
+[.embedded-content-document]
+--
 
 They spend much time in religious retirement,
 and their meetings for Divine worship are mostly held in silence.
@@ -482,9 +516,14 @@ but the rulers of that Canton could not yet agree to grant them the liberty to d
 if refused, there was an apprehension that they would do it by force, in which case,
 a great effusion of blood must be the consequence.
 
+--
+
 At this juncture he was himself taken ill with the prevailing epidemic,
 and for several days his recovery seemed doubtful.
 In reference to this, he says:
+
+[.embedded-content-document]
+--
 
 Several pious persons I had become acquainted with came to my inn, very kindly,
 to minister to me.
@@ -672,8 +711,13 @@ and of the unlawfulness of oaths, under the Christian dispensation.
 I have heard of many others, under similar convictions, who reside among the mountains,
 and several of these are Romish priests.
 
+--
+
 At St. Gallen ended his labours in the Helvetic Republic.
 He left it with deepened feelings of Christian interest in its inhabitants.
+
+[.embedded-content-document]
+--
 
 "`Though Switzerland,`" he writes,
 "`has drunk of the cup of fornication with all the surrounding nations,
@@ -687,3 +731,5 @@ which are not few, I can thankfully bless his name!
 Though I have hitherto been mostly alone in my pilgrimage,
 it is admirable how way has been made for me.
 I am contrited in contemplating how bountifully the Lord has supplied all my need.`"
+
+--
