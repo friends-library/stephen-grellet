@@ -1,9 +1,16 @@
 == Chapter XLVI.
 
-Religious Visit to Ohio--Indiana--Illinois--New Orleans, etc.
+[.chapter-synopsis]
+* Religious Visit to Ohio
+* Indiana
+* Illinois
+* New Orleans, etc.
 
 From Virginia Stephen Grellet had crossed over into Ohio,
 and now pursued his labours in the great valley of the Mississippi as far as New Orleans.
+
+[.embedded-content-document]
+--
 
 New Garden, Ohio, Eighth month, 18th, 1824.
 I get on under great depression of body and mind; my sorrows indeed are multiplied.
@@ -659,3 +666,5 @@ He reached his home pretty comfortably;
 but a few weeks after his complaint increased upon him, and he died.
 It was with reluctance that he left me.
 I am thankful that he reached his home before his decease.
+
+--

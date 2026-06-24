@@ -1,6 +1,9 @@
 == Chapter LXVI.
 
-Philadelphia Yearly Meeting--Illness--Letters, etc.
+[.chapter-synopsis]
+* Philadelphia Yearly Meeting
+* Illness
+* Letters, etc.
 
 For more than fifty years Stephen Grellet had laboured diligently
 in the service of the Gospel in various parts of the world,
@@ -71,8 +74,13 @@ On recovering from the attack which obliged him to
 retire from the Yearly Meeting in Philadelphia,
 he writes:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To George Stacey
 
+[.signed-section-context-open]
 Burlington, 5th mo., 13th, 1847.
 
 I do not expect to write any other letter by this steamer.
@@ -95,11 +103,16 @@ we can contemplate those things which are above!
 This is having our conversation in heaven;
 there I long to have my heart more and more fixed.
 
+--
+
 His correspondence with Ann Alexander, the daughter of his "`beloved and valued friend,
 William Dillwyn,`" had been so constant and long continued
 that a series of extracts from his letters to her,
 will from this time materially aid in exhibiting the different phases of his inner life.
 To her he writes:
+
+[.embedded-content-document.letter]
+--
 
 6th mo., 14th, 1847.--I have gratefully to tell thee that my own health,
 though still feeble, is much improved of late,
@@ -203,7 +216,12 @@ that I must inscribe on the memorial of it these true testimonies of gratitude a
 and truth have followed me all the days of my life.`"
 O! that I may properly bless and adore His holy name!
 
+--
+
 After alluding to the things that were happening, as cause of much Christian solicitude:
+
+[.embedded-content-document.letter]
+--
 
 2nd mo., 26th.--I must commit such fears as these, and many others,
 which sometimes would dismay my fearful mind,
@@ -245,7 +263,13 @@ to pay you a visit in Gospel love: she is a friend beloved; of a meek spirit.
 7th mo., 21st.--I wish to become like a child, weaned from every outward consolation;
 so that truly all my springs may be of the Lord.
 
+--
+
+[.offset]
 On recovering from another attack of illness.
+
+[.embedded-content-document.letter]
+--
 
 10th mo.,
 12th.--How long I may be allowed the privilege to
@@ -311,6 +335,8 @@ he extended to me before I knew him and consequently loved him,
 I depend.
 Surely it is with an everlasting love that he hath loved me.
 
+--
+
 About this time Stephen Grellet was laid by for more than two months, by a fresh attack.
 On reappearing among his friends at their meetings
 for worship,--his ministry was very striking,
@@ -323,6 +349,9 @@ as being in "`the demonstration of the Spirit, and of power.`"
 The freshness of his interest in what was passing is evinced
 in his continued correspondence with A. A.
 
+[.embedded-content-document.letter]
+--
+
 9th mo., 5th, 1849.--The tidings of Indiana Yearly meeting,
 so far as we have heard are of a very satisfactory nature.
 There is an increase of weight and vital religion in that very large Yearly Meeting;
@@ -332,7 +361,13 @@ footnote:[Josiah Forster, William Forster, George Stacey, and John Allen.]
 many that had gone out in the separation that led to the visit of your dear messengers,
 have returned to the bosom of Society.
 
+--
+
+[.offset]
 In reference to the decease of Thomas Maw he adds:
+
+[.embedded-content-document.letter]
+--
 
 I feel much for thy cousin, Lucy Maw.
 The bereavement is severe,
@@ -363,8 +398,10 @@ Thinking of her and of her valuable partner sweetly reminds me of Zacharias and 
 who both walked "`blameless before God.`"
 My warm Christian love flows towards them.
 
+[.letter-heading]
 To George Stacey
 
+[.signed-section-context-open]
 Burlington, 12th mo., 24th, 1849.
 
 There is a spiritual intercourse which may have, yea I know has a free course,
@@ -431,9 +468,16 @@ My wife and daughter request that their love, together with mine,
 be given to thy beloved wife, also to thyself, for whom they retain a warm affection,
 as does also thy closely attached friend,
 
-Stephen Grellet.
+[.signed-section-signature]
+Stephen Grellet
 
+--
+
+[.offset]
 To resume the extracts from letters to Ann Alexander:
+
+[.embedded-content-document.letter]
+--
 
 4th mo., 26th, 1850.--Our Christian love and fellowship is sweet and stable,
 because it is founded in the Truth, where no change is.
@@ -452,7 +496,13 @@ by keeping his eye fixed towards the dear Saviour.
 into the everlasting habitations; her loss to many here and to the church is great,
 but to her the change is exceedingly glorious.
 
+--
+
+[.offset]
 On recovering from a renewed attack of his complaint:
+
+[.embedded-content-document.letter]
+--
 
 9th mo.,
 6th.--Once more I am risen again from what threatened to be my last earthly conflict-risen
@@ -491,7 +541,13 @@ he is disposed to do for us in time and eternity.
 Dear friend, let us come boldly unto him with all our wants and infirmities.
 In Him are all our springs.
 
+--
+
+[.offset]
 On the expected opening of the Crystal Palace in London, he writes:
+
+[.embedded-content-document.letter]
+--
 
 The congregation of so many persons from so many
 nations that are expected to be then in London,
@@ -526,7 +582,13 @@ Give my love to him,
 and tell him that the nearness of spirit and fellowship I had with him,
 when I was personally with him, is not interrupted by long absence from one another.
 
+--
+
+[.offset]
 Speaking of afflictions and sufferings, after recovering from a severe illness, he adds:
+
+[.embedded-content-document.letter]
+--
 
 I have compared them to a rough diamond,--very rough and unsightly in appearance,--nothing
 in it appears desirable:--but remove some of the crust from that rough stone,
@@ -565,8 +627,13 @@ on his return from North Carolina Yearly Meeting.
 He gave a good account of our aged patriarch, Nathan Hunt, where he had been two nights,
 and much enjoyed the company of this valuable aged servant of the Lord.
 
+--
+
 A painful inflammation of the eyes had almost deprived him of the power of using the pen,
 and when nearly blind he writes:
+
+[.embedded-content-document.letter]
+--
 
 1st mo., 13th, 1852.--For the first time I attempt to write,
 though I am not able to read my own writing,
@@ -581,6 +648,8 @@ and to love and adore my blessed and glorious Lord and Redeemer;
 also I am able to join my friends in publicly worshipping him,
 and sometimes also with the voice of thanksgiving and praise to proclaim his name,
 and rehearse his praise and his works.
+
+--
 
 In these extracts a few gleanings only from a rich field whence, had there been room,
 much more might have been gathered, but embracing a period of several years,

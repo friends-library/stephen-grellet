@@ -1,6 +1,10 @@
 == Chapter XLV.
 
-Removal to Burlington--Religious Visit to Maryland--Virginia--North Carolina, etc.
+[.chapter-synopsis]
+* Removal to Burlington
+* Religious Visit to Maryland
+* Virginia
+* North Carolina, etc.
 
 For nearly twenty-four years Stephen Grellet had been a member of New York Yearly Meeting.
 Though, during that time,
@@ -11,6 +15,9 @@ The time had now arrived when he felt at liberty to leave it, and in the Third m
 1823, he removed with his wife and only daughter to Burlington, New Jersey.
 He thus became, and continued to the end of life, a member of Philadelphia Yearly Meeting.
 To this important movement he refers in his memoranda.
+
+[.embedded-content-document]
+--
 
 First month, 26th, 1823.
 The time appears to have come for my removal with my family to Burlington, New Jersey,
@@ -45,20 +52,32 @@ The Lord, the Almighty, is able to do so, and under suffering,
 to increase their knowledge of the power and saving efficacy of the blessed Truth,
 as it is in Jesus.
 
+--
+
 Not long after his removal he attended the Yearly Meeting in Philadelphia,
 of which he was now a member.
 A brief notice of it occurs in his memoranda.--
+
+[.embedded-content-document]
+--
 
 Fifth month, 2nd. I have attended the Yearly Meeting in Philadelphia;
 it was an interesting and solemn time, yet the sour leaven is working secretly in many,
 throughout that Yearly Meeting.
 
+--
+
 Some months later he remarks,
 in reference to his having taken up his residence at Burlington,--
+
+[.embedded-content-document]
+--
 
 Tenth month, 8th. I feel peaceful in having come here; but my sadness is not lessened;
 the little dark cloud, which years past, rested chiefly over a small spot at Jericho,
 on Long Island, is now like a thick darkness over the land.
+
+--
 
 Stephen Grellet was not long permitted to remain
 with his beloved family in their new place of abode.
@@ -69,6 +88,9 @@ His mind had often been attracted in the love of the Gospel,
 towards some of the Southern and Western States, as far as New Orleans.
 After again attending his own Yearly Meeting, at Philadelphia,
 he entered upon this extensive service, which occupied nearly a year.
+
+[.embedded-content-document]
+--
 
 Third month, 6th, 1824.
 A prospect of religious service that I had before me some years past,
@@ -525,3 +547,5 @@ pleasing to their creaturely wisdom and natural understanding;
 yet there is a remnant in these parts,
 who are not ashamed to acknowledge a crucified and risen Lord,
 as their only hope of salvation.
+
+--

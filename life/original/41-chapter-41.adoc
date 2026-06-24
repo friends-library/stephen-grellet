@@ -1,12 +1,17 @@
 == Chapter XLI.
 
+[.chapter-subtitle--blurb]
 Third Visit to Europe
 
-Switzerland
+[.chapter-synopsis]
+* Switzerland
 
 It was a matter of great interest to Stephen Grellet to
 re-visit the scenes of his past labours in the Swiss Cantons.
 On the 26th of First month, 1820, he reached St. Gallen, and writes:
+
+[.embedded-content-document]
+--
 
 I left Stutgard in the evening of the 24th, travelled two nights and one day,
 and arrived here this morning, so little fatigued that, without taking any rest,
@@ -405,3 +410,5 @@ to be once more separated for a short season,--he to return to
 London,--I to proceed in my Master`'s service in France,
 we have taken a solemn farewell of one another, cheered, however,
 by the prospect that our separation will not be long.
+
+--

@@ -1,7 +1,8 @@
 == Chapter LXIV.
 
-Religious Visit to Ohio, Indiana, Baltimore and North Carolina Yearly Meetings,
-etc.--Extracts from Letters
+[.chapter-synopsis]
+* Religious Visit to Ohio, Indiana, Baltimore and North Carolina Yearly Meetings, etc.
+* Extracts from Letters
 
 Stephen Grellet had now arrived at the close of his
 varied "`missionary labours`" in distant nations.
@@ -44,6 +45,9 @@ it was in the land of his adoption that, during the residue of his years,
 he walked humbly with his God,
 and exhibited a bright example of Christian simplicity and faithfulness.
 
+[.embedded-content-document]
+--
+
 "`I continued pretty much at home,`" he writes,
 "`except attending some of the neighbouring Yearly Meetings, till the year 1837,
 when I went to Ohio and Indiana, attended those two Yearly Meetings,
@@ -62,15 +66,23 @@ I attended the Yearly Meeting for North Carolina,
 and visited the meetings constituting several of their Quarterly Meetings,
 and had also several meetings in Virginia.`"
 
+--
+
 Thus briefly he sums up the account of several years
 immediately succeeding his return from Europe.
 A few extracts from his letters will throw a little more light upon that period.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To George Stacey
 
-My dear friend,
-
+[.signed-section-context-open]
 Burlington, 8th mo., 11th, 1834.
+
+[.salutation]
+My dear friend,
 
 My last, written at sea and concluded after my arrival in this Western Hemisphere,
 was sent last month.
@@ -150,14 +162,22 @@ may this abound more and more with us all.
 Tell all my friends I am well,
 and that in peaceful poverty I enjoy many blessings in my dear Master`'s presence.
 
+[.signed-section-closing]
 With very near brotherly love,
 
-Thy nearly attached friend,
+[.signed-section-closing]
+Your nearly attached friend,
 
+[.signed-section-signature]
 Stephen Grellet.
+
+--
 
 In the Tenth month he again writes to G. S.,
 and after speaking with much interest of Daniel Wheeler, he adds:
+
+[.embedded-content-document]
+--
 
 Should dear Tholuck be yet in England give him my affectionate salutation,
 as to a fellow-disciple of our blessed Redeemer, the Lord Jesus Christ.
@@ -165,8 +185,15 @@ May his visit to England tend to strengthen the Divine life in him,
 so that the fruits of that blessed Spirit, the quickening influence of which he has felt,
 be brought forth plentifully.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To George Stacey
 
+[.signed-section-context-open]
 Burlington, 1st mo., 3rd, 1835.
 
 I believe that the Lord God Omnipotent reigneth, and that his power is over all;
@@ -189,10 +216,18 @@ nor brought many nearer to Christ,
 yet there are some precious young plants that have their springs in the Lord;
 for them I feel very tenderly.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Allen
 
+[.signed-section-context-open]
 8th mo., 1st, 1835.
 
+[.salutation]
 My dear friend,
 
 I have been in thoughtfulness that the closing lines
@@ -218,9 +253,15 @@ though they be greatly tried and proved.
 Their very tribulations become sanctified to them, so that out of the depth of them,
 honour, glory and praises are brought forth to his holy and blessed name.
 
+--
+
 The tenth of Eleventh month, 1835,
 after commemorating a providential escape from a serious injury, S. Grellet writes:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Lydia Hargreaves
 
 May a life thus spared be with more faithfulness
@@ -254,8 +295,10 @@ which it would be great ingratitude in me not to acknowledge;
 and with David I can say,
 "`Goodness and mercy have followed me all the days of my life.`"
 
+[.letter-heading]
 To William Allen
 
+[.signed-section-context-open]
 12th mo., 22nd, 1835.
 
 My spirit is bound up in close fellowship with yours, under your various tribulations.
@@ -265,8 +308,10 @@ A precious hope is at seasons set before us,
 that even all things will eventually tend to the furtherance of the blessed Truth,
 and render many of us more firmly established in the purity of it.
 
+[.letter-heading]
 To The Same
 
+[.signed-section-context-open]
 Burlington, 2nd mo., 9th, 1836.
 
 I am concerned to hear that thy health is so much impaired since we separated,
@@ -294,8 +339,10 @@ Our end cannot be very distant,--let us be encouraged to keep in our ranks to
 the end,--under all our sufferings let it be as becometh a servant of Christ,
 for whose blessed Truth`'s sake are the chief trials attending us.
 
+[.letter-heading]
 To Lydia Hargreaves
 
+[.signed-section-context-open]
 Burlington, 3rd mo., 25th, 1836.
 
 Our trials in this state of probation are numerous, but then,
@@ -316,8 +363,10 @@ subsisting between purified spirits through the endless ages of eternity.
 Farewell in the Lord.
 Grace, mercy and peace from God the Father and our Lord Jesus Christ, be with you.
 
+[.letter-heading]
 To George Stacey
 
+[.signed-section-context-open]
 Burlington, 6th mo., 30th, 1836.
 
 I mourn with the mourners among you,
@@ -332,6 +381,8 @@ and that this dispensation is designed to prove in the end a blessing,
 by bringing us to greater consistency with our Christian profession.
 Believing in the Spirit, let us also walk in the Spirit,
 and then the fruits of the flesh will be done away.
+
+--
 
 In the Spring of 1837,
 Stephen Grellet received the affecting intelligence of the decease of his "`beloved
@@ -376,11 +427,17 @@ your mother,
 {footnote-paragraph-split}
 Grellet.`"]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Allen
 
-My dear friend,
-
+[.signed-section-context-open]
 Burlington, 8th mo., 11th, 1837.
+
+[.salutation]
+My dear friend,
 
 Thy three dear letters have all come to hand.
 It was very kind indeed,
@@ -419,8 +476,10 @@ At this distance from each other,
 it causes to flow in my heart that stream of Gospel fellowship which we
 have so often witnessed when actually engaged together in distant nations.
 
+[.letter-heading]
 To Lydia Neild, (late Hargreaves)
 
+[.signed-section-context-open]
 Burlington, 12th mo., 16th, 1837.
 
 I was favoured by my good and blessed Master with help to
@@ -454,8 +513,10 @@ so that we have again and again to set our seals to his great goodness.
 Since this return I have been several times from home, for a little while,
 attending to impressions of religious duty, for which I have felt peace.
 
+[.letter-heading]
 To William Allen
 
+[.signed-section-context-open]
 3rd mo., 8th, 1838.
 
 I have been much of an invalid these days past.
@@ -467,8 +528,10 @@ is the fruit of the love and mercy of God in Christ Jesus to a poor unworthy wor
 May we under an increased sense of it, and with enlarged hearts,
 be still more prepared rightly to praise and exalt his holy and blessed name.
 
+[.letter-heading]
 To Lydia Neild
 
+[.signed-section-context-open]
 Burlington, 4th mo., 28th, 1838.
 
 My health has been feeble for these months past, yet I hope to regain my late standard,
@@ -483,10 +546,18 @@ In this work I desire to be found abounding, now in my declining years,
 yet I rejoice greatly in the Lord,
 when I hear that such as are engaged in the dear Master`'s work.
 
+--
+
+[.offset]
 After alluding to his illness, he writes:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Ann Alexander
 
+[.signed-section-context-open]
 6th mo., 23rd, 1838.
 
 I must, however,
@@ -513,8 +584,10 @@ perhaps on account of the inclemency of the weather.
 He answered, "`My Master has given me a few sheep:
 I must speedily go and look after them.`"
 
+[.letter-heading]
 To William Allen
 
+[.signed-section-context-open]
 Burlington, 10th mo., 1838.
 
 I have felt much interest in hearing of the nature
@@ -537,10 +610,13 @@ young people would yield themselves his servants,
 but the love of the world powerfully operates to
 the turning away of many from the cross of Christ.
 
+[.letter-heading]
 To William Allen
 
+[.signed-section-context-open]
 Burlington, 5th mo., 14th, 1839.
 
+[.salutation]
 My beloved friend,
 
 I wrote to thee a few days after the reception of thy long letter of seven pages;
@@ -591,12 +667,16 @@ that proclaim the name of the Lord! but how far more beautiful
 are those servants of the Lord covered with the spirit of love,
 of meekness, of forbearance, and patience-the spirit of their great Lord and Saviour!
 
+[.signed-section-closing]
 Farewell in the Lord, my much beloved friend, in the fellowship of the everlasting Gospel.
 
+[.signed-section-signature]
 Stephen Grellet
 
+[.letter-heading]
 To William Allen
 
+[.signed-section-context-open]
 7th mo., 7th, 1839.
 
 Zeal, creaturely zeal,
@@ -608,8 +688,10 @@ I long for an increase of it in my own particular.
 With it our lamps and vessels are like those of the wise virgins supplied with oil,
 but darkness and barrenness in Christian virtues must attend such as are without it.
 
+[.letter-heading]
 To Lydia Neild
 
+[.signed-section-context-open]
 5th mo., 15th, 1849.
 
 How pleasant it is to see some of the young people
@@ -631,8 +713,10 @@ interest he felt in the prosperity of his own Christian community,
 he was tenderly alive to all that related to objects so near his heart.
 In allusion to some trying occurrences, he remarks in a letter:
 
+[.letter-heading]
 To George Stacey
 
+[.signed-section-context-open]
 7th mo., 28th, 1841.
 
 There is an Almighty controller of events, in whom we may safely trust.
@@ -658,4 +742,6 @@ are preparing the way for the coming of it.
 
 Surely all the Lord`'s promises to his Church will in his time be fulfilled;
 not one can fail; should the number of his servants now become reduced,
-Omnipotence can multiply them like the sand of the sea.
+Omnipotence can multiply them like the sand of the sea
+
+--

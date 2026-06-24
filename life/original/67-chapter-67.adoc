@@ -1,6 +1,7 @@
 == Chapter LXVII
 
-Last Days and Decease
+[.chapter-synopsis]
+* Last Days and Decease
 
 The last two or three years of Stephen Grellet`'s life were,
 like some of the preceding ones, attended with much physical suffering;
@@ -239,4 +240,5 @@ the 16th of Eleventh month, 1855, with his family around him,
 the beloved and honoured servant of the Lord gently breathed his last,
 full of days and full of peace.
 
+[.the-end]
 THE END

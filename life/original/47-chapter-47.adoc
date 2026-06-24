@@ -1,10 +1,16 @@
 == Chapter XLVII.
 
-Religious Visit to Kentucky--Tennessee--South and North Carolina, etc.
+[.chapter-synopsis]
+* Religious Visit to Kentucky
+* Tennessee
+* South and North Carolina, etc.
 
 Accompanied, now, by his friend John Street,
 Stephen Grellet left the Blue River settlement of Friends in Indiana,
 and crossed the Ohio River into Kentucky.
+
+[.embedded-content-document]
+--
 
 In this State I meet with great openness among the people.
 They come readily to the meetings that I appoint,
@@ -553,8 +559,13 @@ and actually robs those in whose hearts it prevails,
 of that salvation which comes by Him alone.
 I leave many in this place with a mournful spirit.
 
+--
+
 On his return home Stephen Grellet thus closes the account
 of his visit to the Southern and Western States.
+
+[.embedded-content-document]
+--
 
 Burlington, 26th of Third month, 1825.
 I was favoured to return to my beloved wife and daughter,
@@ -579,3 +590,5 @@ Of myself I am nothing, neither can I do anything that is good.
 My hope for the salvation of my soul is solely in the unmerited mercy of God,
 through Jesus Christ.
 To him all glory and praise belong, forever and ever.
+
+--

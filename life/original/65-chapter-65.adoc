@@ -1,7 +1,12 @@
 == Chapter LXV.
 
-New York and New England Yearly Meetings--Illness--Baltimore Yearly Meeting--Decease
-of William Allen--Deputation to Indiana Yearly Meeting--Letters
+[.chapter-synopsis]
+* New York and New England Yearly Meetings
+* Illness
+* Baltimore Yearly Meeting
+* Decease of William Allen
+* Deputation to Indiana Yearly Meeting
+* Letters
 
 Hitherto Stephen Grellet`'s health had not been seriously impaired.
 His strength of constitution had been tested by his
@@ -31,7 +36,10 @@ He spoke touchingly to his beloved wife and daughter,
 and earnestly gave them his blessing.
 He tried to utter some lines of a hymn, and on his wife repeating them:
 
+[verse]
+____
 "`There is a land of pure delight,`" etc.
+____
 
 he bowed his head and said, "`Out of the depths hast thou answered me.`"
 Again he remarked, "`My Saviour is my joy, my salvation, the rock of my strength,
@@ -60,6 +68,9 @@ and his earnest desire and prayer that,
 "`for the Church`'s sake and that of the blessed cause of
 righteousness in the earth,`" his life might yet be prolonged,
 he continues:
+
+[.embedded-content-document.letter]
+--
 
 I am persuaded that thy blessed Master and beloved
 Lord has richly supplied all thy wants,
@@ -121,12 +132,16 @@ although we cannot expect to hear of thy rising again to thy former vigour.
 Farewell, my much beloved in the Lord.
 It is he who is thy buckler, thy shield, and finally thy "`exceeding great reward.`"
 
-Stephen Grellet.
+[.signed-section-signature]
+Stephen Grellet
 
+[.letter-heading]
 To the Same
 
+[.signed-section-context-open]
 Burlington, 5th mo., 22nd, 1843.
 
+[.salutation]
 My beloved friend,
 
 The day before yesterday I received thy letter of Third month, 31st,
@@ -176,14 +191,19 @@ Peter was to glorify his beloved Lord by his death.
 
 My love to thy beloved niece Lucy, Cornelius and wife, with their nice flock.
 
+[.signed-section-closing]
 Thy very nearly attached friend,
 
-Stephen Grellet.
+[.signed-section-signature]
+Stephen Grellet
 
+[.letter-heading]
 To William Allen
 
+[.signed-section-context-open]
 Burlington, 7th mo., 22nd, 1843.
 
+[.salutation]
 My beloved friend,
 
 I wrote to thee soon after the reception of thy last letter,
@@ -226,11 +246,16 @@ joins me in a message of the same to thy dear Lucy,
 also to our beloved friend Susanna Corder, Cornelius Hanbury and wife,
 and their children.
 
+[.signed-section-closing]
 Farewell in the Lord, my much beloved friend,
 
+[.signed-section-closing]
 Thy closely attached,
 
+[.signed-section-signature]
 Stephen Grellet
+
+--
 
 In the Autumn of 1843,
 Stephen Grellet was so far recruited as to be able to attend the Yearly Meeting in Baltimore,
@@ -250,6 +275,9 @@ that he should not tarry long after him.`"
 Some months later, on reviewing the few last years of his life,
 having nearly completed his seventy-first year,
 he makes the last record in his Autobiography:
+
+[.embedded-content-document]
+--
 
 In 1842, I was at the Yearly Meetings of New York and Rhode Island,
 attending also a number of meetings in those States respectively.
@@ -305,10 +333,18 @@ and the source of his rejoicing even in the midst of tribulation,
 whilst his heart still flowed out in Christian love
 and sympathy towards the ends of the earth.
 
+--
+
+[.offset]
 About this time he writes in reference to the Yearly Meeting lately held in London;
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Ann Alexander
 
+[.signed-section-context-open]
 6th mo., 27th, 1845.
 
 All agree in the one testimony that the Lord owned in a very precious
@@ -327,6 +363,8 @@ as the wind and the storm increased, wrapped his mantle the more closely about h
 Thus may I hold firmer and firmer, with the girdle of Truth,
 the mantle of love to God and man!
 
+--
+
 At the Yearly Meeting alluded to in the preceding extract,
 four Friends had been set apart as a deputation to Indiana Yearly Meeting,
 where a small secession had taken place in connection with the question of slavery.
@@ -334,6 +372,10 @@ On hearing of the appointment,
 Stephen Grellet`'s heart glowed with interest towards his beloved friends,
 and the object they had in view; and he writes:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To George Stacey
 
 I hail the account of the proceedings of your Yearly Meeting and of thy
@@ -351,10 +393,18 @@ surely it is the love of Christ that constrains you
 to make the sacrifice to attempt to come among us,
 well knowing the privations and the sufferings that you will have to undergo.
 
+--
+
+[.offset]
 On the arrival of the deputation at New York, he again writes:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same
 
+[.signed-section-context-open]
 Burlington, 9th mo., 1st, 1845.
 
 I feel disposed to meet thee with a few lines, to bid thee and our beloved friends,
@@ -383,10 +433,18 @@ having accomplished the interesting service,
 they were permitted to return home with the Divine
 blessing resting upon their work of faith.
 
+--
+
+[.offset]
 Not long afterwards, he writes:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Ann Alexander
 
+[.signed-section-context-open]
 9th mo., 19th, 1845.
 
 Lately the troubles of my heart were greatly enlarged, when feeling,
@@ -408,6 +466,8 @@ if whilst looking at the things below sadness overwhelms,
 heavenly hopes and joys are beaming forth when the eye is directed to the Lord Jesus;
 let us therefore endeavour to have our hearts fixed on Him.
 
+--
+
 His health was still feeble,
 but on the approach of the Yearly Meeting of New York the ensuing spring,
 he felt well enough to yield to "`an apprehension of religious duty,
@@ -418,6 +478,9 @@ and he had much satisfaction in meeting so many of his beloved
 friends on such an interesting and important occasion.
 In reference to it, he remarks in a letter to a friend:
 
+[.embedded-content-document]
+--
+
 My blessed Master permitted me to return home in sweet peace.
 Though the engagements were close, and mental exercise often deep,
 yet I have come back stronger than I went out.
@@ -427,10 +490,18 @@ and my days so unexpectedly lengthened, may be devoted to his service,
 even though this should be by suffering for his blessed Truth.
 O that I may glorify him in life and in death!
 
+--
+
+[.offset]
 A little later, he writes:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Lydia Neild
 
+[.signed-section-context-open]
 Burlington, 7th mo., 27th, 1846.
 
 The number of my correspondents in England has greatly lessened;
@@ -450,8 +521,15 @@ through the merits and intercession of the blessed Redeemer,
 to be admitted among those who have come out of great tribulation,
 and have washed their robes in the blood of the Lamb!
 
+--
+
+[.offset]
 In the early part of 1847, he again writes:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Lydia Neild
 
 We are permitted to continue here a little while longer; I marvel as to myself,
@@ -467,9 +545,15 @@ I believe it is so, therefore let us, through his assisting grace,
 endeavour to possess our souls in patience, and in faith and confidence,
 wait to see what he will do for his great name.
 
+--
+
 About the same time, having heard of the death of Clarkson,
 he thus alludes to that great champion of Negro freedom, in a letter:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Ann Alexander
 
 I have thought several times how much you must miss our late valuable friend,
@@ -483,10 +567,13 @@ I salute affectionately thy dear father, (Dykes Alexander,) and thy aunt Alexand
 (late of York,) as travellers thitherward; yea,
 not very far now from the pearl gate into that "`glorious city.`"
 
+[.letter-heading]
 To Josiah Forster
 
+[.signed-section-context-open]
 Burlington, 2nd mo., 26th, 1847.
 
+[.salutation]
 My beloved Friend,
 
 I share with thee and deeply feel the great stripping of the church among you.
@@ -527,7 +614,13 @@ Dear friend, whatever gloomy things may at seasons appear to us,
 let us trust in the Lord, and not be afraid.
 He will work, even in our Society--and who shall hinder Him?
 
+--
+
+[.offset]
 Writing to the same friend, a little later, be adds:
+
+[.embedded-content-document]
+--
 
 I shall die in hope that better days will come,
 and that the Sun of Righteousness will yet arise with healing in his wings.
@@ -535,6 +628,8 @@ O then, what virtue!
 What blessed efficacy will flow!
 Our wilderness shall then flourish, and our desert shall become as the garden of the Lord.
 In His time, he will do this, and glorify his name.
+
+--
 
 There was at this time something peculiarly bright and searching
 in Stephen Grellet`'s Gospel ministry in his own meeting.
