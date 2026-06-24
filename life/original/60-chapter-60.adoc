@@ -1,8 +1,11 @@
 == Chapter LX.
 
+[.chapter-subtitle--blurb]
 Fourth Visit to Europe
 
-Spain--Madrid
+[.chapter-synopsis]
+* Spain
+* Madrid
 
 Stephen Grellet now entered upon an entirely new field of labour.
 In company, once more, with his faithful friend, William Allen,
@@ -22,6 +25,9 @@ into execution when Stephen Grellet and W. A. entered the Spanish dominions.
 
 They arrived at Irun, the first town in Spain, on the 11th of Second month, 1833,
 but were obliged to perform another quarantine before they could proceed into the interior.
+
+[.embedded-content-document]
+--
 
 Irun.
 Second month, 16th. We expect to be released today from this quarantine.
@@ -57,8 +63,13 @@ and, at the places of stopping to change horses or mules or for taking refreshme
 they inform their confederates of the prospect there is of making a good prize,
 and they lay in wait for the travellers in such strength as to overpower them.
 
+--
+
 They arrived at Madrid on the 20th of Second month,
 and soon entered upon the object of their mission.
+
+[.embedded-content-document]
+--
 
 22nd. Since our arrival at Madrid we have been in company with a few well-disposed persons,
 through whom we may expect to become acquainted with others.
@@ -593,3 +604,5 @@ We took an affectionate farewell of this interesting family.
 several persons came to see us once more,
 with whom we had precious and solemn parting seasons.
 One of these was Remisa, the keeper of the King`'s treasury.
+
+--

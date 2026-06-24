@@ -1,6 +1,7 @@
 == Chapter XLIX.
 
-Religious Visit to Friends in New York Yearly Meeting
+[.chapter-synopsis]
+* Religious Visit to Friends in New York Yearly Meeting
 
 A Calm had succeeded the excitement that prevailed during the separation.
 In five out of the eight Yearly Meetings of which
@@ -17,6 +18,9 @@ the time of holding their Yearly Meeting was approaching,
 and he now felt "`impressed with a belief, that it was his religious duty,
 to visit his brethren under their sore tribulations.`"
 Of this service he gives the following particulars:--
+
+[.embedded-content-document]
+--
 
 I obtained the concurrence of my friends, in this engagement, and,
 accompanied by Henry Warrington, a valuable Elder, I left home the 12th of Fifth month,
@@ -79,7 +83,13 @@ In the course of these two months past,
 we have travelled about one thousand five hundred miles,
 and been at seventy-four meetings.
 
+--
+
+[.offset]
 Having crossed over from Buffalo into Canada, Stephen Grellet continues:
+
+[.embedded-content-document]
+--
 
 York (now Toronto), Eighth month, 24th. We went up as far as Falmouth and London,
 and had meetings in all places where Friends have formed settlements,
@@ -194,7 +204,13 @@ They have also among them a promising rising generation.
 I entertain the cheering hope that many of these
 may become ornaments to their Christian profession.
 
+--
+
+[.offset]
 Leaving Canada they crossed the St. Lawrence to Morris-town in the United States.
+
+[.embedded-content-document]
+--
 
 We went towards the Black River settlements,
 and the other meetings that are to compose a Quarterly Meeting, now establishing.
@@ -327,6 +343,8 @@ and to him every knee shall bow and every tongue shall confess, yea, even the re
 that He alone is Lord of lords, and King of kings.
 He is worthy of all honour and praise,--amen.
 
+--
+
 After his return from this visit of Christian love
 and sympathy to his brethren in New York Yearly Meeting,
 Stephen Grellet was permitted to enjoy a time of
@@ -335,8 +353,13 @@ His Christian interest and solicitude were, however,
 kept alive to what was passing both in and out of the Society--at home and abroad.
 A letter to a beloved friend in England contains some useful hints.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To A. A.
 
+[.signed-section-context-open]
 Burlington, 2nd month, 27th, 1830.
 
 The state of our country is such that many of the valuable benevolent
@@ -351,7 +374,13 @@ I believe that ignorance of it is a fruitful cause
 of the lamentable defection from our principles,
 and the strength that the spirit of unbelief and infidelity has obtained.
 
+--
+
+[.offset]
 Towards the conclusion of 1830, he makes the following memorandum.
+
+[.embedded-content-document]
+--
 
 During the course of this year I have been mostly at home,
 except attending meetings here and in the surrounding neighbourhood,
@@ -367,3 +396,5 @@ they may thereby come to the loss of the little they had attained, wound their o
 and hurt the cause they were prompted, by their imprudent zeal, to attempt to promote.
 My concern for some of these has at times been great; and I fear that, from this cause,
 other trials may arise in our Society.
+
+--

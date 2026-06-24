@@ -1,13 +1,20 @@
 == Chapter LXII.
 
+[.chapter-subtitle--blurb]
 Fourth Visit to Europe
 
-Spain--Barcelona--Return through France to England
+[.chapter-synopsis]
+* Spain
+* Barcelona
+* Return through France to England
 
 Their services in Valencia being concluded,
 they left that place by the diligence on the evening of the 19th
 and pursued their journey along the Mediterranean coast.
 Stephen Grellet writes:
+
+[.embedded-content-document]
+--
 
 // lint-disable invalid-characters
 We had the coupé to ourselves.
@@ -195,8 +202,13 @@ The Catalonians are mostly a fine race of men, so that even the beggars among th
 with their tattered red cloaks, have no mean appearance.
 They are also industrious, compared with the people in other parts of Spain.
 
+--
+
 Being released from further service in the Peninsula,
 Stephen Grellet and his companion took their departure for France.
+
+[.embedded-content-document]
+--
 
 // lint-disable invalid-characters
 Jonquières, 28th. This is the last Spanish town on the frontiers of France.
@@ -404,3 +416,5 @@ Our hearts overflowed with gratitude to the Lord,
 who has brought us back in safety amongst our friends, and who enables us, in his mercy,
 to rear for a memorial to his goodness many stones brought up out of deep exercises;
 "`Hitherto the Lord hath helped`" is the inscription to be read thereon.
+
+--

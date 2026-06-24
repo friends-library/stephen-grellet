@@ -1,12 +1,20 @@
 == Chapter XXXIX.
 
+[.chapter-subtitle--blurb]
 Third Visit to Europe
 
-Florence--Leghorn--Venice--Verona, etc.
+[.chapter-synopsis]
+* Florence
+* Leghorn
+* Venice
+* Verona, etc.
 
 Travelling day and night he reached Florence early
 in the morning of the eleventh of Twelfth month,
 1819, and resumes his journal.
+
+[.embedded-content-document]
+--
 
 After the conflicts of mind, and bodily fatigue I had in Rome,
 travelling alone in the open air was refreshing to me every way;
@@ -44,7 +52,13 @@ and in such places I have endured great suffering;
 but my proper business is simply to follow my dear Lord,
 as by his good Spirit he directs my steps.
 
+--
+
+[.offset]
 A few days after he adds:--
+
+[.embedded-content-document]
+--
 
 I have been at two hospitals, the asylum for the insane,
 the foundlings`' orphan`'s house, a large poorhouse, and some schools,
@@ -71,7 +85,13 @@ We have visited several families piously disposed,
 and I had a meeting with some of these collected for the purpose of worship.
 I have also distributed some religious books, in French and Italian.
 
+--
+
+[.offset]
 Suspending his labours in Florence for a few days, he passed over to Leghorn.
+
+[.embedded-content-document]
+--
 
 Leghorn, 16th. Travelling during the night, I came here in fourteen hours.
 I wished to visit this place previous to my departure from Tuscany,
@@ -142,7 +162,13 @@ a pious and benevolent individual, has a school for poor children,
 supported at his own expense, which I visited to some satisfaction;
 peculiar attention is given to moral instruction.
 
+--
+
+[.offset]
 On his return from Leghorn he continues his notes on Florence:
+
+[.embedded-content-document]
+--
 
 19th. On my way back to Florence I stopped at Pisa,
 where I met but little to claim my attention.
@@ -193,8 +219,13 @@ but what is far more pleasant still,
 is that the morals of the people generally far exceed what
 are lamentably to be found in other parts of Italy.
 
+--
+
 Having concluded his services in the Tuscan capital,
 he proceeded by way of Bologna and Ferrara to Venice.
+
+[.embedded-content-document]
+--
 
 22nd. Bologna.
 I travelled last night by the Courrier,
@@ -318,10 +349,15 @@ as, by accident or otherwise, are wounded or hurt in the street.
 I had a precious time with these monks,
 who are devoted to acts of benevolence and charity.
 
+--
+
 In the afternoon "`a solemn parting meeting with many of the pious or
 serious persons of the city,`" closed his religious labours in Venice,
 and he left the same evening for Verona.
 He continues:--
+
+[.embedded-content-document]
+--
 
 Verona, First month, 1st, 1820.
 I came here in two nights and one day.
@@ -343,6 +379,8 @@ Unless the Lord`'s hand be stretched forth to uphold me, I must sink under the t
 that I am sensible await me, during the succeeding days of my probationary life; yet,
 with deep reverence I can say, "`I know Him in whom I have believed;`"--though weakness,
 yea, nothingness belongs to me, "`in the Lord Jehovah there is everlasting strength.`"
+
+--
 
 From Verona he proceeded by way of Ala, Trent, Brixen, Insspruck, etc.,
 through the Tyrolese Alps, to Munich in Bavaria.

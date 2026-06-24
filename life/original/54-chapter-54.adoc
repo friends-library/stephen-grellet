@@ -1,10 +1,19 @@
 == Chapter LIV.
 
+[.chapter-subtitle--blurb]
 Fourth Visit to Europe
 
-Dresden.--Herrnuut and Bertholsdorf--Rumburg--Prague
+[.chapter-synopsis]
+* Dresden
+* Herrnuut and Bertholsdorf
+* Rumburg
+* Prague
 
+[.offset]
 They now paid an interesting visit to Dresden.
+
+[.embedded-content-document]
+--
 
 We left Leipzic before daylight on the morning of the 8th of Ninth month,
 and the road being good, we arrived at Dresden early in the afternoon.
@@ -207,6 +216,8 @@ Adelaide thought it best to take refuge here; her affliction has been sanctified
 and it has brought her to a more intimate acquaintance with the blessed Truth,
 and enlarged her heart in the faith and love of Christ.
 
+--
+
 After these parting visits they left Dresden and proceeded to Herrnhut and Bertholsdorf
 the "`mother congregation of the Renewed Church of the Moravian Brethren.`"
 Sprung from a small seed of bold confessors of Christ, who,
@@ -234,6 +245,9 @@ From the name of their chief settlement the Moravians are well known in
 Germany as "`Herrnhuters.`"]
 early in the morning of the 13th of Ninth month, and, continuing his notes,
 Stephen Grellet says:
+
+[.embedded-content-document]
+--
 
 Soon after breakfast we went to the house of the Count Donha, for whom we had letters.
 Before these were opened the Countess, on hearing my name,
@@ -319,7 +333,13 @@ the Count came to see us once more to bid us farewell.
 Both he and his pious Countess, will long live m our memory.
 Our intercourse and fellowship with them, and many others in this place, have been sweet.
 
+--
+
+[.offset]
 They now passed over into the land of John Huss and Jerome of Prague.
+
+[.embedded-content-document]
+--
 
 We set off about eleven o`'clock for Rumburg, the first town in Bohemia.
 The road was bad; very stony, but very romantic.
@@ -514,3 +534,5 @@ it seemed as if he was receiving a treasure, which, he said,
 both he and his friends would greatly appreciate, and endeavour to keep very private.
 There are, we hear, many such pious and hidden ones in Bohemia,
 well known unto the Lord though unknown to man.
+
+--

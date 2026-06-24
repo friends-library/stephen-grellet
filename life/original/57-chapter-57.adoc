@@ -1,8 +1,12 @@
 == Chapter LVII.
 
+[.chapter-subtitle--blurb]
 Fourth Visit to Europe
 
-Strasburg--Ban De La Roche--Switzerland
+[.chapter-synopsis]
+* Strasburg
+* Ban De La Roche
+* Switzerland
 
 Though Stephen Grellet had left William Allen at Stutgard,
 with the "`comforting hope`" that they would be united again in
@@ -12,6 +16,10 @@ As he pursued his lonely journey towards the Rhine,
 his heart often turned to him in Christian affection--and, on his arrival at Strasburg,
 the next day, he thus writes:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To William Allen
 
 Soon after we parted, the recollection of our reading in the morning was sweet,
@@ -26,7 +34,13 @@ I did not doubt, my dear brother, that thou wouldst carry thy sheaves with thee,
 in the retrospect, feel that peace which the Lord alone giveth.
 "`Thou wilt ordain peace for us, for thou only hast wrought all our works in us.`"
 
+--
+
+[.offset]
 The journal continues:--
+
+[.embedded-content-document]
+--
 
 Strasburg.
 Tenth month, 12th. Soon after my arrival a pious person came to see me.
@@ -734,3 +748,5 @@ what is remarkable, the wives of two clergymen and their daughters, are among th
 also the sisters of Galland and another clergyman.
 May the Lord himself feed this little flock of his pasture, guide them by his Spirit,
 and finally receive them to glory!
+
+--
