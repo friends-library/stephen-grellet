@@ -28,7 +28,7 @@ In allusion to this he remarks:
 [.embedded-content-document]
 --
 
-I had entertained a hope that I had accomplished in.
+I had entertained a hope that I had accomplished in
 Europe the whole of the work that my dear Master had for me there;
 and very sweet peace had continued to attend me,
 when I recurred to the deep and peculiar exercises, and the nature of my services there;
@@ -146,7 +146,7 @@ he had gained the general good-will, and was beloved by his fellow-citizens,
 when Stephen Grellet and his companion landed on
 the southern shore of the island of Hayti.
 
-They had a prosperous voyage, and only one fellowpassenger.
+They had a prosperous voyage, and only one fellow-passenger.
 When the weather allowed, they held religious meetings on board their vessel twice a week.
 These were generally attended by all that could be spared from the ship`'s duty.
 On landing in Hayti, Stephen Grellet remarks:
@@ -185,7 +185,7 @@ I have been comforted among some of the people, who manifest a tender conscience
 Having brought with me Bibles and Testaments in French, and books and tracts of piety,
 they are gratefully received.
 Our visits to many families have been seasons of edification and instruction.
-We purchased horses here to take us to Portau-Prince.
+We purchased horses here to take us to Port-au-Prince.
 The roads in this part of the island are not suitable for carriages:
 it was also necessary to hire a guide to go with us.
 
@@ -242,7 +242,7 @@ aid of the few travellers who come that way,
 and can spare a few moments for him.
 What he learns he imparts to his children, who are nice, well-behaved blacks.
 He was much pleased on my presenting him with a New Testament.
-We reached Miraguano that night.
+We reached Miraguane that night.
 
 Long before daylight we were again on the road next morning, when,
 after passing through the Little Gonaive, and the Grand Gonaive, we succeeded,
@@ -393,7 +393,7 @@ and in their stead I have given them Bibles, Testaments,
 and other works of piety and usefulness.
 It has been very grateful to me to observe the eagerness
 with which some of the people have received the Scriptures;
-I had bought several hundred copies with me,
+I had brought several hundred copies with me,
 also a pretty large number of useful and religious books.
 Among these are many relating to our Christian principles, which are well received.
 
@@ -586,7 +586,7 @@ and it now passes through plantations very lately covered with luxuriant sugar c
 but which are now a bed of stones and gravel.
 Our guide took us a good way up to ford it; the water, however,
 reached to the backs of our horses;
-but we were favoured to arrive safely at Portau-Prince in the evening, when our host,
+but we were favoured to arrive safely at Port-au-Prince in the evening, when our host,
 Archibald Kane, received us with his former kindness.
 My dear companion, John Hancock, with myself,
 felt our hearts bowed before the Lord with reverent gratitude,

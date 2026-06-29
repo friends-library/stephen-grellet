@@ -18,8 +18,8 @@ by which he distinguished his return to the administration of his office,
 was the restoration of the Jesuits, there seemed to be evidence, during his latter days,
 that "`the conflict respecting creeds had been nearly set at rest in political circles,
 and was gradually losing its violence in civil life.`"^
-footnote:[Kanke`'s __History of the Popes__]
-He had nearly reached the advanced age of eighty, when Stephen.
+footnote:[Ranke`'s __History of the Popes__]
+He had nearly reached the advanced age of eighty, when Stephen
 Grellet visited Rome, and was admitted to a personal interview with him.
 
 During the fortnight which Stephen Grellet spent in the Papal city,
@@ -89,7 +89,7 @@ Some tried to kiss his hand, others his feet.
 As he came towards me, by my dress he probably recognized who I was,
 so that before I could hand him the letters, he politely asked,
 "`Are you not Mr. Grellet?`"
-to which answering in the affirmative he said.
+to which answering in the affirmative he said,
 "`Please to call on me at my own palace,
 tomorrow morning;`" and I gave him the letters I had for him.
 
@@ -250,7 +250,7 @@ The lofty apartment I was in, is about two hundred feet in length, and forty in 
 On both sides of this room were small chambers; opposite to each door was a boy,
 cleanly dressed, with a spinning wheel: all seemed industrious,
 and profound silence prevailed amongst them.
-It seemed to be a pleasant Bight; but, casting my eyes downward,
+It seemed to be a pleasant sight; but, casting my eyes downward,
 I observed that every boy had a chain at his ancle,
 allowing him to go only from his cell to his wheel!
 Then I beheld several inclined blocks, with stocks to confine hands and feet,
@@ -505,7 +505,7 @@ confidence in priests and outward observances;
 "`What shall we do to be saved?`"
 is their inquiry.
 
-6th. I had an interesting and solemn meeting with several persons of the above description.
+5th. I had an interesting and solemn meeting with several persons of the above description.
 Accompanied by the Prince Charles Odescalchi,
 I visited a large establishment placed under his charge;
 it is a night retreat for every one who chooses to come in the evening;
@@ -566,7 +566,7 @@ He is well-disposed to relieve the prisoners from some of
 the sufferings which I have represented to him.
 This evening I went to the Quirinal as appointed yesterday by Consalvi.
 // lint-disable invalid-characters
-I expected to find L`'Abbé Capaciui in waiting for me, to take me to the Pope;
+I expected to find L`'Abbé Capacini in waiting for me, to take me to the Pope;
 but no one was there who knew anything about my coming.
 There is something in this I cannot understand,
 unless it be that the priests and others are much displeased, as I hear,
@@ -579,7 +579,7 @@ From Capacini, however, I find that monks, priests, and even Cardinals,
 are some of them under great excitement and irritation,
 highly offended at my having profaned their holy places,
 by inspecting their secret things in the Inquisition;
-and the countenance that Consalvi has given me since my coming to Home,
+and the countenance that Consalvi has given me since my coming to Rome,
 displeases them also.
 Some of them, I believe, are particularly sore,
 because I have exposed their misapplication of the money, intended,
